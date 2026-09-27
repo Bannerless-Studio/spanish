@@ -3,6 +3,15 @@
 Residuals after QA round 1 and its fix round. Rules and counts are in
 `tools/REPORT.md`.
 
+## Known deviations from the ideal spec
+- The es spaCy model is GPL-3.0. It runs only at build time and nothing
+  from it ships except the derived pack data.
+- Almost no permissive audio exists; sentences rely on TTS (es-ES). See
+  "Audio" below.
+- Same-spelling pairs (solo adv/adj, sí intj/pron, bajo prep/adj) make the
+  engine validator print "share surface form" warnings; that is expected.
+- Fixed phrases rank after the frequency words (rank is informational).
+
 ## Sentence links
 - Determiner uses of mucho, poco and tanto are never linked ("muchos
   pueblos", "mucha fruta"). The pack has only their adverb entries, and a
