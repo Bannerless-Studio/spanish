@@ -89,3 +89,6 @@ Residuals after QA round 1 and its fix round. Rules and counts are in
   live in vocab-engine's `packbuilder/langs/es.py` hooks, not in this repo.
 - Full manual QA notes and per-passage coverage/link numbers are in
   `tools/REPORT_passages.md`.
+
+## Republish 09e90bc (2026-09-29)
+- Republish 09e90bc: sentence spans (20346/20346 linked words placed); inflected forms now cloze targets
