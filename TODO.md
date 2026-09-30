@@ -92,3 +92,6 @@ Residuals after QA round 1 and its fix round. Rules and counts are in
 
 ## Republish 09e90bc (2026-09-29)
 - Republish 09e90bc: sentence spans (20346/20346 linked words placed); inflected forms now cloze targets
+
+## Republish ef44c6e (2026-09-30)
+- Republish ef44c6e: disparar, la bomba A2->B1 (band edge: juzgar, presente B1->A2); deleted override key tuyo|det (tuyo ships as pron, gloss unchanged); set-counter and no-voice planner fixes

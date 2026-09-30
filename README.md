@@ -1,7 +1,7 @@
 # Spanish A1-B1 vocab pack
 
 Static data pack for a language-agnostic vocab trainer (`key: "es"`). 2000
-words spanning A1-B1, each with a short English gloss, plus 3288 example
+words spanning A1-B1, each with a short English gloss, plus 3286 example
 sentences with English translations. The Read tab adds 60 short reading
 passages with comprehension questions (see "Reading passages" below).
 
@@ -32,10 +32,11 @@ top 300 words have no wrong part of speech.
 weapons, suicide or vulgar English are kept out of A1/A2 (a word that is
 itself on the list, such as morir or matar, takes B1-level examples).
 Sentences about rape or sexual/child abuse are removed at every level. No
-A1/A2 gloss carries a vulgar or sexual sense. matar, morir and muerto stay
-at A1 as neutral core vocabulary; their violent uses reach learners only
-through B1 sentences (same call as Russian убить). See `TODO.md` for the
-exact rule history and counts.
+A1/A2 gloss carries a vulgar or sexual sense. morir, muerto and la muerte
+stay at A1 as neutral core vocabulary; their violent uses reach learners
+only through B1 sentences. matar, disparar and la bomba sit at B1 under the
+shared word-level ceiling. See `TODO.md` for the exact rule history and
+counts.
 
 ## What's in this repo
 
