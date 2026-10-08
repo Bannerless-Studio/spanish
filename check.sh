@@ -2,6 +2,7 @@
 # Runs every check that must pass before shipping the Spanish pack/site:
 #   1. packbuilder check         - pack-level schema/coverage/article checks
 #      (engine/tools/packbuilder/qa/check.py with the Spanish spec)
+#   1b. packbuilder enrich --check - ft tiers, the port flag block and pack.eta match tools/eta.json
 #   2. engine/tools/validate_pack.py - engine's schema, referential-integrity,
 #      and generated-.js-in-sync checks
 #   3. stale-build guard (engine/tools/check_site.sh) - rebuilds index.html and sw.js
@@ -14,6 +15,10 @@ cd "$(dirname "$0")"
 
 echo "== packbuilder check =="
 PYTHONPATH="${PACKBUILDER_PATH:-engine/tools}" python3 -m packbuilder check --lang es --repo .
+
+echo
+echo "== packbuilder enrich --check (ft tiers + port flag block + eta) =="
+PYTHONPATH="${PACKBUILDER_PATH:-engine/tools}" python3 -m packbuilder enrich --lang es --repo . --check
 
 echo
 echo "== engine/tools/validate_pack.py =="

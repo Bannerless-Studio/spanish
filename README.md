@@ -53,7 +53,9 @@ architecture and build commands.
 git clone --recurse-submodules <this repo>
 cd spanish && python3 -m venv .venv && source .venv/bin/activate
 pip install -r tools/requirements.txt
-python3 tools/build_pack.py && python3 engine/tools/jsonify_pack.py pack
+python3 tools/build_pack.py
+PYTHONPATH=engine/tools python3 -m packbuilder enrich --lang es --repo .   # ft tiers, flags, eta
+python3 engine/tools/jsonify_pack.py pack
 ./build.sh && ./check.sh
 ```
 

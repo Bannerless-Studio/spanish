@@ -31,6 +31,7 @@ rebuild never invalidates a learner's saved progress.
 - Regenerate JS from JSON: `python3 engine/tools/jsonify_pack.py pack`
 - Build site: `./build.sh`
 - Check (must pass before every commit of index.html): `./check.sh`
+- Port flags + `ft` tiers + `eta`: `PYTHONPATH=engine/tools python3 -m packbuilder enrich --lang es --repo .` (then jsonify, build; `--check` runs in check.sh). ETA constants live in `tools/eta.json` (`node tests/eta_checks.js --pack pack --calibrate --write tools/eta.json` in vocab-engine). Rerun `enrich` after any `build_pack.py` run.
 - Passages: `PYTHONPATH=engine/tools python3 -m packbuilder passages .`
 - QA helpers: `PYTHONPATH=engine/tools python3 -m packbuilder {scan,sample} --lang es --repo .`
 - Engine tests live in vocab-engine (see its CLAUDE.md)

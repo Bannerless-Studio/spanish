@@ -95,3 +95,7 @@ Residuals after QA round 1 and its fix round. Rules and counts are in
 
 ## Republish ef44c6e (2026-09-30)
 - Republish ef44c6e: disparar, la bomba A2->B1 (band edge: juzgar, presente B1->A2); deleted override key tuyo|det (tuyo ships as pron, gloss unchanged); set-counter and no-voice planner fixes
+
+## Republish 439df3d (2026-10-08), port wave 1
+- Republish 439df3d: typed modes, day-aware scheduling, reading rotation, goals, pairs, frequency tiers, Progress v2, redesigned tabs, session estimates. Pack diff vs 47167a2: every word gains `ft` (A1 ambient 100 / core 440 / peripheral 60, A2 0/525/175, B1 0/420/280); pack.json gains the generic flag set + `eta` (gain 0.00503 / 0.00324 / 0.00269, known 7.33; 600 sessions, 85%, seeds 5/6/7, all gates PASS 3/3); nothing else changes. `tools/eta.json` holds the constants; `check.sh` runs `enrich --check`.
+- Migration proof: rollback hash 47167a2a2a9f1cfc6f6b363db67f214016ff3189 (engine ef44c6e). Live md5 before: index.html 35ad2b3127ea77fe74b3a8577862c3ae, sw.js 26e0fb3b71dd93f0a7975822e34fb141. New build: index.html 796b78c2971ae8a904d2159d6ce605e5, sw.js bc442cc3ed3586e40fc7ba2297b02035. Storage: new fields day/sn/t/u/f/p/pm/pv/pause/read.done s,ls/today.tw on first use; boot writes nothing; previous build ef44c6e/aa00571 carries them (migration [port] 9/9).
