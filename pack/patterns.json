@@ -1,0 +1,3737 @@
+[
+ {
+  "id": "p01",
+  "lv": "A1",
+  "label": "ser / estar",
+  "en": "to be: what it is / where it is now",
+  "note": [
+   "ser: who or what it is. estar: where it is, how it is now.",
+   "Es médico. Está en casa. Está cansado."
+  ],
+  "near": [
+   "p02",
+   "p10",
+   "p17",
+   "p19",
+   "p14"
+  ],
+  "keys": [
+   "w0004",
+   "w0010"
+  ],
+  "sentences": [
+   {
+    "id": "p01.1",
+    "src": "s1363",
+    "t": "Luke, yo soy tu primo.",
+    "en": "Luke, I am your cousin.",
+    "lv": "A1",
+    "words": [
+     "w0037",
+     "w0004",
+     "w0040",
+     "w0512"
+    ],
+    "marks": [
+     [
+      9,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p01.2",
+    "src": "s0383",
+    "t": "Ella está en el baño.",
+    "en": "She is in the bathroom.",
+    "lv": "A1",
+    "words": [
+     "w0091",
+     "w0010",
+     "w0006",
+     "w0001",
+     "w0434"
+    ],
+    "marks": [
+     [
+      5,
+      9
+     ]
+    ]
+   },
+   {
+    "id": "p01.3",
+    "src": "s0231",
+    "t": "Ella es mi mujer ideal.",
+    "en": "She is my dream girl.",
+    "lv": "A1",
+    "words": [
+     "w0091",
+     "w0004",
+     "w0028",
+     "w0125"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p01.4",
+    "src": "s1694",
+    "t": "Tom está en su oficina.",
+    "en": "Tom is in his office.",
+    "lv": "A1",
+    "words": [
+     "w0010",
+     "w0006",
+     "w0020",
+     "w0404"
+    ],
+    "marks": [
+     [
+      4,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p01.5",
+    "src": "s0582",
+    "t": "Él es una buena persona.",
+    "en": "He's a good person.",
+    "lv": "A1",
+    "words": [
+     "w0024",
+     "w0004",
+     "w0007",
+     "w0042",
+     "w0112"
+    ],
+    "marks": [
+     [
+      3,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p01.6",
+    "src": "s0366",
+    "t": "Japón está cerca de China.",
+    "en": "Japan is close to China.",
+    "lv": "A1",
+    "words": [
+     "w0010",
+     "w0314",
+     "w0002"
+    ],
+    "marks": [
+     [
+      6,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p01.7",
+    "src": "s0249",
+    "t": "Bill es mi mejor amigo.",
+    "en": "Bill is my best friend.",
+    "lv": "A1",
+    "words": [
+     "w0004",
+     "w0028",
+     "w0097",
+     "w0117"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p01.8",
+    "src": "s0417",
+    "t": "Esta ciudad está en Francia.",
+    "en": "This city is in France.",
+    "lv": "A1",
+    "words": [
+     "w0025",
+     "w0177",
+     "w0010",
+     "w0006"
+    ],
+    "marks": [
+     [
+      12,
+      16
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p02",
+  "lv": "A1",
+  "label": "hay",
+  "en": "there is / there are",
+  "note": [
+   "There is / there are. One form for one or many.",
+   "hay: Hay un libro. Hay dos libros."
+  ],
+  "near": [
+   "p01",
+   "p08",
+   "p19"
+  ],
+  "keys": [
+   "w0587"
+  ],
+  "sentences": [
+   {
+    "id": "p02.1",
+    "src": "s0648",
+    "t": "No hay clases en agosto.",
+    "en": "There are no classes in August.",
+    "lv": "A1",
+    "words": [
+     "w0005",
+     "w0587",
+     "w0253",
+     "w0006",
+     "w0490"
+    ],
+    "marks": [
+     [
+      3,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p02.2",
+    "src": "s1242",
+    "t": "En invierno hay mucha nieve.",
+    "en": "There's a lot of snow in the winter.",
+    "lv": "A1",
+    "words": [
+     "w0006",
+     "w0509",
+     "w0587",
+     "w0522"
+    ],
+    "marks": [
+     [
+      12,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p02.3",
+    "src": "s0268",
+    "t": "Entre nosotros no hay problema.",
+    "en": "Between us there is no problem.",
+    "lv": "A1",
+    "words": [
+     "w0120",
+     "w0161",
+     "w0005",
+     "w0587",
+     "w0137"
+    ],
+    "marks": [
+     [
+      18,
+      21
+     ]
+    ]
+   },
+   {
+    "id": "p02.4",
+    "src": "s1965",
+    "t": "Mañana hay prueba de matemáticas.",
+    "en": "There's a math test tomorrow.",
+    "lv": "A1",
+    "words": [
+     "w0279",
+     "w0587",
+     "w0602",
+     "w0002"
+    ],
+    "marks": [
+     [
+      7,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p02.5",
+    "src": "s0330",
+    "t": "No hay tiempo que perder.",
+    "en": "There is no time to be lost.",
+    "lv": "A1",
+    "words": [
+     "w0005",
+     "w0587",
+     "w0074",
+     "w0009",
+     "w0160"
+    ],
+    "marks": [
+     [
+      3,
+      6
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p03",
+  "lv": "A1",
+  "label": "ir a",
+  "en": "going to (do)",
+  "note": [
+   "Going to do something: the near future.",
+   "ir a + verb: Voy a comer."
+  ],
+  "near": [
+   "p16",
+   "p10"
+  ],
+  "keys": [
+   "w0003"
+  ],
+  "sentences": [
+   {
+    "id": "p03.1",
+    "src": "s0002",
+    "t": "Eso no va a pasar.",
+    "en": "That won't happen.",
+    "lv": "A1",
+    "words": [
+     "w0044",
+     "w0005",
+     "w0021",
+     "w0003",
+     "w0055"
+    ],
+    "marks": [
+     [
+      10,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p03.2",
+    "src": "s1500",
+    "t": "¿Qué le vas a dar?",
+    "en": "What will you give her?",
+    "lv": "A1",
+    "words": [
+     "w0023",
+     "w0038",
+     "w0021",
+     "w0003",
+     "w0041"
+    ],
+    "marks": [
+     [
+      12,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p03.3",
+    "src": "s2863",
+    "t": "No le va a gustar.",
+    "en": "He won't like that.",
+    "lv": "A1",
+    "words": [
+     "w0005",
+     "w0038",
+     "w0021",
+     "w0003",
+     "w0109"
+    ],
+    "marks": [
+     [
+      9,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p03.4",
+    "src": "s1163",
+    "t": "Vas a perder el tren.",
+    "en": "You will miss the train.",
+    "lv": "A1",
+    "words": [
+     "w0021",
+     "w0003",
+     "w0160",
+     "w0001",
+     "w0442"
+    ],
+    "marks": [
+     [
+      4,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p03.5",
+    "src": "s1961",
+    "t": "Voy a buscar mi coche.",
+    "en": "I'm going to take my car.",
+    "lv": "A1",
+    "words": [
+     "w0021",
+     "w0003",
+     "w0147",
+     "w0028",
+     "w0412"
+    ],
+    "marks": [
+     [
+      4,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p03.6",
+    "src": "s1966",
+    "t": "Eso no va a funcionar.",
+    "en": "That won't work.",
+    "lv": "A1",
+    "words": [
+     "w0044",
+     "w0005",
+     "w0021",
+     "w0003",
+     "w0348"
+    ],
+    "marks": [
+     [
+      10,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p03.7",
+    "src": "s2577",
+    "t": "Te voy a mostrar algo.",
+    "en": "I'll show you something.",
+    "lv": "A1",
+    "words": [
+     "w0027",
+     "w0021",
+     "w0003",
+     "w0282",
+     "w0065"
+    ],
+    "marks": [
+     [
+      7,
+      8
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p04",
+  "lv": "A1",
+  "label": "tener que",
+  "en": "have to (do)",
+  "note": [
+   "Have to do something: an obligation.",
+   "tener que + verb: Tengo que ir."
+  ],
+  "near": [
+   "p06",
+   "p08",
+   "p22"
+  ],
+  "keys": [
+   "w0009"
+  ],
+  "sentences": [
+   {
+    "id": "p04.1",
+    "src": "s2856",
+    "t": "Tengo que ir al centro.",
+    "en": "I need to go into town.",
+    "lv": "A1",
+    "words": [
+     "w0015",
+     "w0009",
+     "w0021",
+     "w0003",
+     "w0361"
+    ],
+    "marks": [
+     [
+      6,
+      9
+     ]
+    ]
+   },
+   {
+    "id": "p04.2",
+    "src": "s0505",
+    "t": "Tengo que volver a casa.",
+    "en": "I have to go home.",
+    "lv": "A1",
+    "words": [
+     "w0015",
+     "w0009",
+     "w0103",
+     "w0003",
+     "w0093"
+    ],
+    "marks": [
+     [
+      6,
+      9
+     ]
+    ]
+   },
+   {
+    "id": "p04.3",
+    "src": "s0340",
+    "t": "Ella no tiene que trabajar.",
+    "en": "She doesn't need to work.",
+    "lv": "A1",
+    "words": [
+     "w0091",
+     "w0005",
+     "w0015",
+     "w0009",
+     "w0141"
+    ],
+    "marks": [
+     [
+      14,
+      17
+     ]
+    ]
+   },
+   {
+    "id": "p04.4",
+    "src": "s1153",
+    "t": "Tengo que abrir la ventana.",
+    "en": "I must open the window.",
+    "lv": "A1",
+    "words": [
+     "w0015",
+     "w0009",
+     "w0285",
+     "w0001",
+     "w0453"
+    ],
+    "marks": [
+     [
+      6,
+      9
+     ]
+    ]
+   },
+   {
+    "id": "p04.5",
+    "src": "s2604",
+    "t": "Tenemos que echar una mano.",
+    "en": "We must help.",
+    "lv": "A1",
+    "words": [
+     "w0015",
+     "w0009",
+     "w0374",
+     "w0007",
+     "w0178"
+    ],
+    "marks": [
+     [
+      8,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p04.6",
+    "src": "s0274",
+    "t": "¿Tengo que cambiar mi dieta?",
+    "en": "Do I have to change my diet?",
+    "lv": "A1",
+    "words": [
+     "w0015",
+     "w0009",
+     "w0186",
+     "w0028"
+    ],
+    "marks": [
+     [
+      7,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p04.7",
+    "src": "s0485",
+    "t": "¿Tenemos que tomar el autobús?",
+    "en": "Do we have to take the bus?",
+    "lv": "A1",
+    "words": [
+     "w0015",
+     "w0009",
+     "w0105",
+     "w0001",
+     "w0504"
+    ],
+    "marks": [
+     [
+      9,
+      12
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p05",
+  "lv": "A1",
+  "label": "muy / mucho",
+  "en": "very / a lot",
+  "note": [
+   "muy + quality word; mucho after a verb or before a noun.",
+   "muy alto; Llovió mucho. Comen mucho pescado."
+  ],
+  "near": [
+   "p08",
+   "p09"
+  ],
+  "keys": [
+   "w0047",
+   "w0129"
+  ],
+  "sentences": [
+   {
+    "id": "p05.1",
+    "src": "s0422",
+    "t": "Este camino es muy largo.",
+    "en": "This road is very long.",
+    "lv": "A1",
+    "words": [
+     "w0025",
+     "w0275",
+     "w0004",
+     "w0047",
+     "w0320"
+    ],
+    "marks": [
+     [
+      15,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "p05.2",
+    "src": "s0402",
+    "t": "La cena estuvo muy buena.",
+    "en": "The dinner was very good.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0478",
+     "w0010",
+     "w0047",
+     "w0042"
+    ],
+    "marks": [
+     [
+      15,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "p05.3",
+    "src": "s0085",
+    "t": "Estoy muy contento de verte.",
+    "en": "I'm very glad to see you.",
+    "lv": "A1",
+    "words": [
+     "w0010",
+     "w0047",
+     "w0484",
+     "w0002",
+     "w0035"
+    ],
+    "marks": [
+     [
+      6,
+      9
+     ]
+    ]
+   },
+   {
+    "id": "p05.4",
+    "src": "s1623",
+    "t": "Tenemos un problema muy serio.",
+    "en": "We have a very serious problem.",
+    "lv": "A1",
+    "words": [
+     "w0015",
+     "w0007",
+     "w0137",
+     "w0047",
+     "w0267"
+    ],
+    "marks": [
+     [
+      20,
+      23
+     ]
+    ]
+   },
+   {
+    "id": "p05.5",
+    "src": "s0455",
+    "t": "Su hermana me gusta mucho.",
+    "en": "I like her sister very much.",
+    "lv": "A1",
+    "words": [
+     "w0020",
+     "w0410",
+     "w0017",
+     "w0109",
+     "w0129"
+    ],
+    "marks": [
+     [
+      20,
+      25
+     ]
+    ]
+   },
+   {
+    "id": "p05.6",
+    "src": "s0638",
+    "t": "El mes pasado llovió mucho.",
+    "en": "We had a lot of rain last month.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0200",
+     "w0276",
+     "w0129"
+    ],
+    "marks": [
+     [
+      21,
+      26
+     ]
+    ]
+   },
+   {
+    "id": "p05.7",
+    "src": "s1090",
+    "t": "¿Los japoneses comen mucho pescado?",
+    "en": "Do Japanese eat a lot of fish?",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0228",
+     "w0129",
+     "w0537"
+    ],
+    "marks": [
+     [
+      21,
+      26
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p06",
+  "lv": "A1",
+  "label": "acabar de",
+  "en": "to have just (done)",
+  "note": [
+   "Has just done something.",
+   "acabar de + verb: Acabo de llegar."
+  ],
+  "near": [
+   "p04"
+  ],
+  "keys": [
+   "w0002"
+  ],
+  "sentences": [
+   {
+    "id": "p06.1",
+    "src": "s1882",
+    "t": "¡Se acaba de poner mejor!",
+    "en": "It just got better!",
+    "lv": "A1",
+    "words": [
+     "w0014",
+     "w0180",
+     "w0002",
+     "w0090"
+    ],
+    "marks": [
+     [
+      10,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p06.2",
+    "src": "s2040",
+    "t": "¿Te acabas de dar cuenta?",
+    "en": "Did you just realize that?",
+    "lv": "A1",
+    "words": [
+     "w0027",
+     "w0180",
+     "w0002",
+     "w0041",
+     "w0167"
+    ],
+    "marks": [
+     [
+      11,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p06.3",
+    "src": "s2688",
+    "t": "Me acaba de ocurrir algo.",
+    "en": "Something just occurred to me.",
+    "lv": "A1",
+    "words": [
+     "w0017",
+     "w0180",
+     "w0002",
+     "w0287",
+     "w0065"
+    ],
+    "marks": [
+     [
+      9,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p06.4",
+    "src": "s1178",
+    "t": "Acaba de empezar a llover.",
+    "en": "It began raining just now.",
+    "lv": "A1",
+    "words": [
+     "w0180",
+     "w0002",
+     "w0168",
+     "w0003"
+    ],
+    "marks": [
+     [
+      6,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p06.5",
+    "src": "s2102",
+    "t": "La vida acaba de comenzar.",
+    "en": "Life has just begun.",
+    "lv": "A1",
+    "words": [
+     "w0001",
+     "w0089",
+     "w0180",
+     "w0002",
+     "w0273"
+    ],
+    "marks": [
+     [
+      14,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p06.6",
+    "src": "s2846",
+    "t": "¿Qué acaba de suceder allá?",
+    "en": "What just happened there?",
+    "lv": "A1",
+    "words": [
+     "w0023",
+     "w0180",
+     "w0002",
+     "w0336",
+     "w0388"
+    ],
+    "marks": [
+     [
+      11,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p06.7",
+    "src": "s3015",
+    "t": "Acabo de echar mi solicitud.",
+    "en": "I just turned in my application.",
+    "lv": "A1",
+    "words": [
+     "w0180",
+     "w0002",
+     "w0374",
+     "w0028"
+    ],
+    "marks": [
+     [
+      6,
+      8
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p07",
+  "lv": "A2",
+  "label": "gustar",
+  "en": "to like (pleases me)",
+  "note": [
+   "Liking: the thing liked does the pleasing.",
+   "(a él) le / (a mí) me gusta + thing: Me gusta el té."
+  ],
+  "near": [
+   "p11",
+   "p12",
+   "p13"
+  ],
+  "keys": [
+   "w0017",
+   "w0038"
+  ],
+  "sentences": [
+   {
+    "id": "p07.1",
+    "src": "s0384",
+    "t": "A ella le gusta correr.",
+    "en": "She likes to run.",
+    "lv": "A2",
+    "words": [
+     "w0003",
+     "w0091",
+     "w0038",
+     "w0109",
+     "w0391"
+    ],
+    "marks": [
+     [
+      7,
+      9
+     ]
+    ]
+   },
+   {
+    "id": "p07.2",
+    "src": "s2288",
+    "t": "A él le gusta el té dulce.",
+    "en": "He likes sweet tea.",
+    "lv": "A2",
+    "words": [
+     "w0003",
+     "w0024",
+     "w0038",
+     "w0109",
+     "w0001",
+     "w1125"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p07.3",
+    "src": "s2062",
+    "t": "A Tom le gusta observar aves.",
+    "en": "Tom likes to observe birds.",
+    "lv": "A2",
+    "words": [
+     "w0003",
+     "w0038",
+     "w0109",
+     "w1043"
+    ],
+    "marks": [
+     [
+      6,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p07.4",
+    "src": "s1703",
+    "t": "A él le gusta cantar y bailar.",
+    "en": "He likes singing and dancing.",
+    "lv": "A2",
+    "words": [
+     "w0003",
+     "w0024",
+     "w0038",
+     "w0109",
+     "w0798",
+     "w0008",
+     "w0980"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p07.5",
+    "src": "s2153",
+    "t": "A él le gusta la cultura occidental.",
+    "en": "He likes Western culture.",
+    "lv": "A2",
+    "words": [
+     "w0003",
+     "w0024",
+     "w0038",
+     "w0109",
+     "w0001",
+     "w1005"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p07.6",
+    "src": "s2241",
+    "t": "A Tom le gusta probar cosas nuevas.",
+    "en": "Tom likes trying out new things.",
+    "lv": "A2",
+    "words": [
+     "w0003",
+     "w0038",
+     "w0109",
+     "w0628",
+     "w0071",
+     "w0084"
+    ],
+    "marks": [
+     [
+      6,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p07.7",
+    "src": "s1620",
+    "t": "A mí ni siquiera me gusta pelear.",
+    "en": "Even I don't like to fight.",
+    "lv": "A2",
+    "words": [
+     "w0003",
+     "w0144",
+     "w0116",
+     "w0645",
+     "w0017",
+     "w0109",
+     "w1078"
+    ],
+    "marks": [
+     [
+      17,
+      19
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p08",
+  "lv": "A2",
+  "label": "más … que",
+  "en": "more … than",
+  "note": [
+   "More than: compares two things.",
+   "más + adjective + que: Soy más alto que tú."
+  ],
+  "near": [
+   "p05",
+   "p09",
+   "p04",
+   "p22"
+  ],
+  "keys": [
+   "w0009",
+   "w0031"
+  ],
+  "sentences": [
+   {
+    "id": "p08.1",
+    "src": "s0584",
+    "t": "Soy más bajo que tú.",
+    "en": "I am shorter than you.",
+    "lv": "A2",
+    "words": [
+     "w0004",
+     "w0031",
+     "w0402",
+     "w0009",
+     "w0088"
+    ],
+    "marks": [
+     [
+      4,
+      7
+     ],
+     [
+      13,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p08.2",
+    "src": "s0494",
+    "t": "Eres más alto que yo.",
+    "en": "You are taller than I.",
+    "lv": "A2",
+    "words": [
+     "w0004",
+     "w0031",
+     "w0231",
+     "w0009",
+     "w0037"
+    ],
+    "marks": [
+     [
+      5,
+      8
+     ],
+     [
+      14,
+      17
+     ]
+    ]
+   },
+   {
+    "id": "p08.3",
+    "src": "s1480",
+    "t": "Soy más listo que tú.",
+    "en": "I'm smarter than you.",
+    "lv": "A2",
+    "words": [
+     "w0004",
+     "w0031",
+     "w0303",
+     "w0009",
+     "w0088"
+    ],
+    "marks": [
+     [
+      4,
+      7
+     ],
+     [
+      14,
+      17
+     ]
+    ]
+   },
+   {
+    "id": "p08.4",
+    "src": "s0904",
+    "t": "Esta pared es más alta que esa.",
+    "en": "This wall is taller than that one.",
+    "lv": "A2",
+    "words": [
+     "w0025",
+     "w1188",
+     "w0004",
+     "w0031",
+     "w0231",
+     "w0009",
+     "w0039"
+    ],
+    "marks": [
+     [
+      14,
+      17
+     ],
+     [
+      23,
+      26
+     ]
+    ]
+   },
+   {
+    "id": "p08.5",
+    "src": "s0310",
+    "t": "Nada es más valioso que la salud.",
+    "en": "Nothing is more valuable than health.",
+    "lv": "A2",
+    "words": [
+     "w0070",
+     "w0004",
+     "w0031",
+     "w0009",
+     "w0001",
+     "w0729"
+    ],
+    "marks": [
+     [
+      8,
+      11
+     ],
+     [
+      20,
+      23
+     ]
+    ]
+   },
+   {
+    "id": "p08.6",
+    "src": "s1230",
+    "t": "Nada es más precioso que el tiempo.",
+    "en": "Nothing is so precious as time.",
+    "lv": "A2",
+    "words": [
+     "w0070",
+     "w0004",
+     "w0031",
+     "w1210",
+     "w0009",
+     "w0001",
+     "w0074"
+    ],
+    "marks": [
+     [
+      8,
+      11
+     ],
+     [
+      21,
+      24
+     ]
+    ]
+   },
+   {
+    "id": "p08.7",
+    "src": "s1056",
+    "t": "Este animal es más grande que aquél.",
+    "en": "This animal is bigger than that one.",
+    "lv": "A2",
+    "words": [
+     "w0025",
+     "w0804",
+     "w0004",
+     "w0031",
+     "w0081",
+     "w0009"
+    ],
+    "marks": [
+     [
+      15,
+      18
+     ],
+     [
+      26,
+      29
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p09",
+  "lv": "A2",
+  "label": "tan … como",
+  "en": "as … as",
+  "note": [
+   "As … as: two things are equal.",
+   "tan + adjective + como: Soy tan alto como Tom."
+  ],
+  "near": [
+   "p05",
+   "p08"
+  ],
+  "keys": [
+   "w0033",
+   "w0083"
+  ],
+  "sentences": [
+   {
+    "id": "p09.1",
+    "src": "s0660",
+    "t": "Soy tan alto como Tom.",
+    "en": "I'm as tall as Tom.",
+    "lv": "A2",
+    "words": [
+     "w0004",
+     "w0083",
+     "w0231",
+     "w0033"
+    ],
+    "marks": [
+     [
+      4,
+      7
+     ],
+     [
+      13,
+      17
+     ]
+    ]
+   },
+   {
+    "id": "p09.2",
+    "src": "s0949",
+    "edited": true,
+    "t": "No soy tan idiota como para creerte.",
+    "en": "I'm not so stupid as to believe you.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0004",
+     "w0083",
+     "w1011",
+     "w0033",
+     "w0018",
+     "w0052"
+    ],
+    "marks": [
+     [
+      7,
+      10
+     ],
+     [
+      18,
+      22
+     ]
+    ]
+   },
+   {
+    "id": "p09.3",
+    "src": "s1706",
+    "t": "Tom no es tan inteligente como parece.",
+    "en": "Tom isn't as smart as he looks.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0004",
+     "w0083",
+     "w1053",
+     "w0033",
+     "w0101"
+    ],
+    "marks": [
+     [
+      10,
+      13
+     ],
+     [
+      26,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p09.4",
+    "src": "s1360",
+    "t": "Nunca probé algo tan extraño como esto.",
+    "en": "I've never tasted anything as unusual as this.",
+    "lv": "A2",
+    "words": [
+     "w0100",
+     "w0628",
+     "w0065",
+     "w0083",
+     "w0813",
+     "w0033",
+     "w0054"
+    ],
+    "marks": [
+     [
+      17,
+      20
+     ],
+     [
+      29,
+      33
+     ]
+    ]
+   },
+   {
+    "id": "p09.5",
+    "src": "s1851",
+    "t": "Deberías partir tan pronto como sea posible.",
+    "en": "You should set off as soon as possible.",
+    "lv": "A2",
+    "words": [
+     "w0050",
+     "w0744",
+     "w0083",
+     "w0033",
+     "w0004",
+     "w0289"
+    ],
+    "marks": [
+     [
+      16,
+      19
+     ],
+     [
+      27,
+      31
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p10",
+  "lv": "A2",
+  "label": "por / para",
+  "en": "for: through, because of / to, in order to",
+  "note": [
+   "por: through, by, because of, during.",
+   "para: for whom, to where, in order to."
+  ],
+  "keys": [
+   "w0011",
+   "w0018"
+  ],
+  "sentences": [
+   {
+    "id": "p10.1",
+    "src": "s0493",
+    "t": "Él entró por la ventana.",
+    "en": "He came in through the window.",
+    "lv": "A2",
+    "words": [
+     "w0024",
+     "w0192",
+     "w0011",
+     "w0001",
+     "w0453"
+    ],
+    "marks": [
+     [
+      9,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p10.2",
+    "src": "s0320",
+    "t": "Busco un sitio para dormir.",
+    "en": "I'm looking for a place to sleep.",
+    "lv": "A2",
+    "words": [
+     "w0147",
+     "w0007",
+     "w0339",
+     "w0018",
+     "w0347"
+    ],
+    "marks": [
+     [
+      15,
+      19
+     ]
+    ]
+   },
+   {
+    "id": "p10.3",
+    "src": "s0398",
+    "t": "Muchas gracias por su ayuda.",
+    "en": "Thank you for your help.",
+    "lv": "A2",
+    "words": [
+     "w0011",
+     "w0020",
+     "w0312",
+     "w0590"
+    ],
+    "marks": [
+     [
+      15,
+      18
+     ]
+    ]
+   },
+   {
+    "id": "p10.4",
+    "src": "s2259",
+    "t": "Eres demasiado joven para amar.",
+    "en": "You're too young to love.",
+    "lv": "A2",
+    "words": [
+     "w0004",
+     "w0306",
+     "w0399",
+     "w0018",
+     "w0270"
+    ],
+    "marks": [
+     [
+      21,
+      25
+     ]
+    ]
+   },
+   {
+    "id": "p10.5",
+    "src": "s0908",
+    "t": "¿Vienes por aquí a menudo?",
+    "en": "Do you come here often?",
+    "lv": "A2",
+    "words": [
+     "w0080",
+     "w0011",
+     "w0068",
+     "w0572"
+    ],
+    "marks": [
+     [
+      8,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p10.6",
+    "src": "s0658",
+    "t": "Él parte para Tokio mañana.",
+    "en": "He leaves for Tokyo tomorrow.",
+    "lv": "A2",
+    "words": [
+     "w0024",
+     "w0111",
+     "w0018",
+     "w0279"
+    ],
+    "marks": [
+     [
+      9,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p10.7",
+    "src": "s0477",
+    "t": "Estoy loco por el golf.",
+    "en": "I am crazy about golf.",
+    "lv": "A2",
+    "words": [
+     "w0010",
+     "w0380",
+     "w0011",
+     "w0001"
+    ],
+    "marks": [
+     [
+      11,
+      14
+     ]
+    ]
+   },
+   {
+    "id": "p10.8",
+    "src": "s3195",
+    "t": "¿Qué he hecho para merecer esto?",
+    "en": "What have I done to deserve this?",
+    "lv": "A2",
+    "words": [
+     "w0023",
+     "w0013",
+     "w0019",
+     "w0018",
+     "w0817",
+     "w0054"
+    ],
+    "marks": [
+     [
+      14,
+      18
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p11",
+  "lv": "A2",
+  "label": "lo",
+  "en": "it, him (object)",
+  "note": [
+   "It or him: the thing acted on.",
+   "lo before the verb: Lo sabe. No lo dije."
+  ],
+  "near": [
+   "p07",
+   "p12",
+   "p13",
+   "p24"
+  ],
+  "keys": [
+   "w0012"
+  ],
+  "sentences": [
+   {
+    "id": "p11.1",
+    "src": "s1996",
+    "t": "Ella lo trataba como a un rey.",
+    "en": "She treated him like a king.",
+    "lv": "A2",
+    "words": [
+     "w0091",
+     "w0012",
+     "w0140",
+     "w0033",
+     "w0003",
+     "w0007",
+     "w0636"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p11.2",
+    "src": "s0558",
+    "t": "Todo el mundo lo sabe.",
+    "en": "Anybody knows it.",
+    "lv": "A2",
+    "words": [
+     "w0036",
+     "w0001",
+     "w0124",
+     "w0012",
+     "w0032"
+    ],
+    "marks": [
+     [
+      14,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p11.3",
+    "src": "s1208",
+    "t": "Él, de hecho, lo hizo.",
+    "en": "He actually did it.",
+    "lv": "A2",
+    "words": [
+     "w0024",
+     "w0012",
+     "w0019",
+     "w0581"
+    ],
+    "marks": [
+     [
+      14,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p11.4",
+    "src": "s1210",
+    "t": "Él al final lo consiguió.",
+    "en": "He accomplished it at last.",
+    "lv": "A2",
+    "words": [
+     "w0024",
+     "w0003",
+     "w0286",
+     "w0012",
+     "w0214"
+    ],
+    "marks": [
+     [
+      12,
+      14
+     ]
+    ]
+   },
+   {
+    "id": "p11.5",
+    "src": "s1101",
+    "t": "No lo dije en serio.",
+    "en": "I meant it as a joke.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0012",
+     "w0026",
+     "w0586"
+    ],
+    "marks": [
+     [
+      3,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p11.6",
+    "src": "s1031",
+    "t": "De hecho no lo sabía.",
+    "en": "In fact, I did not know it.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0012",
+     "w0032",
+     "w0581"
+    ],
+    "marks": [
+     [
+      12,
+      14
+     ]
+    ]
+   },
+   {
+    "id": "p11.7",
+    "src": "s2465",
+    "t": "Sé que lo puedes lograr.",
+    "en": "I know you can make it.",
+    "lv": "A2",
+    "words": [
+     "w0032",
+     "w0009",
+     "w0012",
+     "w0022",
+     "w0371"
+    ],
+    "marks": [
+     [
+      7,
+      9
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p12",
+  "lv": "A2",
+  "label": "se (reflexive)",
+  "en": "se with the verb",
+  "note": [
+   "se with the verb: sit down, get up, marry, forget.",
+   "se + verb: Tom se lavó. Ella se casó."
+  ],
+  "near": [
+   "p11",
+   "p13",
+   "p07"
+  ],
+  "keys": [
+   "w0014"
+  ],
+  "sentences": [
+   {
+    "id": "p12.1",
+    "src": "s0985",
+    "t": "Él se puso de pie.",
+    "en": "He stood up.",
+    "lv": "A2",
+    "words": [
+     "w0024",
+     "w0014",
+     "w0090",
+     "w0002",
+     "w0401"
+    ],
+    "marks": [
+     [
+      3,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p12.2",
+    "src": "s0148",
+    "t": "Ella se siente mal hoy.",
+    "en": "She feels bad today.",
+    "lv": "A2",
+    "words": [
+     "w0091",
+     "w0014",
+     "w0087",
+     "w0281",
+     "w0149"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p12.3",
+    "src": "s2237",
+    "t": "El juez se rió sin querer.",
+    "en": "The judge laughed in spite of himself.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0962",
+     "w0014",
+     "w0882",
+     "w0067",
+     "w0034"
+    ],
+    "marks": [
+     [
+      8,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p12.4",
+    "src": "s2778",
+    "t": "Tom se sentó solo en el bar.",
+    "en": "Tom sat alone at the bar.",
+    "lv": "A2",
+    "words": [
+     "w0014",
+     "w0087",
+     "w0110",
+     "w0006",
+     "w0001",
+     "w1231"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p12.5",
+    "src": "s0487",
+    "t": "Ella se casó con un hombre rico.",
+    "en": "She married a rich man.",
+    "lv": "A2",
+    "words": [
+     "w0091",
+     "w0014",
+     "w0777",
+     "w0016",
+     "w0007",
+     "w0094",
+     "w0671"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p12.6",
+    "src": "s1950",
+    "t": "Tom se olvidó de firmar su nombre.",
+    "en": "Tom forgot to sign his name.",
+    "lv": "A2",
+    "words": [
+     "w0014",
+     "w0250",
+     "w0002",
+     "w0964",
+     "w0020",
+     "w0159"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p12.7",
+    "src": "s0547",
+    "t": "Ellos se sentaron al lado del fuego.",
+    "en": "They sat down by the fire.",
+    "lv": "A2",
+    "words": [
+     "w0131",
+     "w0014",
+     "w0790",
+     "w0003",
+     "w0205",
+     "w0002",
+     "w0745"
+    ],
+    "marks": [
+     [
+      6,
+      8
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p13",
+  "lv": "A2",
+  "label": "se (impersonal)",
+  "en": "one does / is done",
+  "note": [
+   "One does it: no named doer.",
+   "se + verb: Aquí se habla español."
+  ],
+  "near": [
+   "p11",
+   "p12",
+   "p07"
+  ],
+  "keys": [
+   "w0014"
+  ],
+  "sentences": [
+   {
+    "id": "p13.1",
+    "src": "s0741",
+    "t": "En México se habla español.",
+    "en": "They speak Spanish in Mexico.",
+    "lv": "A2",
+    "words": [
+     "w0006",
+     "w0014",
+     "w0066",
+     "w0446"
+    ],
+    "marks": [
+     [
+      10,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p13.2",
+    "src": "s0481",
+    "t": "¿Qué lengua se habla en tu país?",
+    "en": "What language do they speak in your country?",
+    "lv": "A2",
+    "words": [
+     "w0023",
+     "w1115",
+     "w0014",
+     "w0066",
+     "w0006",
+     "w0040",
+     "w0201"
+    ],
+    "marks": [
+     [
+      12,
+      14
+     ]
+    ]
+   },
+   {
+    "id": "p13.3",
+    "src": "s3241",
+    "t": "Este producto no se vende en Japón.",
+    "en": "This product isn't sold in Japan.",
+    "lv": "A2",
+    "words": [
+     "w0025",
+     "w0925",
+     "w0005",
+     "w0014",
+     "w0620",
+     "w0006"
+    ],
+    "marks": [
+     [
+      17,
+      19
+     ]
+    ]
+   },
+   {
+    "id": "p13.4",
+    "src": "s1647",
+    "t": "No recuerdo cómo se usa esta máquina.",
+    "en": "I can't remember how to use this machine.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0176",
+     "w0048",
+     "w0014",
+     "w0154",
+     "w0025",
+     "w1158"
+    ],
+    "marks": [
+     [
+      17,
+      19
+     ]
+    ]
+   },
+   {
+    "id": "p13.5",
+    "src": "s1740",
+    "t": "No se puede sobrevivir sin dinero.",
+    "en": "You can't survive without money.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0014",
+     "w0022",
+     "w1273",
+     "w0067",
+     "w0193"
+    ],
+    "marks": [
+     [
+      3,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p13.6",
+    "src": "s2726",
+    "t": "No se puede negar que es inteligente.",
+    "en": "There is no denying that he is clever.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0014",
+     "w0022",
+     "w0961",
+     "w0009",
+     "w0004",
+     "w1053"
+    ],
+    "marks": [
+     [
+      3,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p13.7",
+    "src": "s3233",
+    "t": "¿Esto cómo se puede lograr?",
+    "en": "How can this be accomplished?",
+    "lv": "A2",
+    "words": [
+     "w0054",
+     "w0048",
+     "w0014",
+     "w0022",
+     "w0371"
+    ],
+    "marks": [
+     [
+      11,
+      13
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p14",
+  "lv": "A2",
+  "label": "estar + -ando",
+  "en": "is doing (right now)",
+  "note": [
+   "Is doing it right now.",
+   "estar + -ando / -iendo: Está comiendo."
+  ],
+  "keys": [
+   "w0010"
+  ],
+  "sentences": [
+   {
+    "id": "p14.1",
+    "src": "s1179",
+    "t": "El hombre está comiendo pan.",
+    "en": "The man is eating bread.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0094",
+     "w0010",
+     "w0228",
+     "w0469"
+    ],
+    "marks": [
+     [
+      10,
+      14
+     ]
+    ]
+   },
+   {
+    "id": "p14.2",
+    "src": "s2362",
+    "t": "Tom está llamando de vuelta.",
+    "en": "Tom is calling back.",
+    "lv": "A2",
+    "words": [
+     "w0010",
+     "w0106",
+     "w0002",
+     "w0354"
+    ],
+    "marks": [
+     [
+      4,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p14.3",
+    "src": "s0413",
+    "t": "Ellas están leyendo su libro.",
+    "en": "They are reading her book.",
+    "lv": "A2",
+    "words": [
+     "w0417",
+     "w0010",
+     "w0212",
+     "w0020",
+     "w0261"
+    ],
+    "marks": [
+     [
+      6,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p14.4",
+    "src": "s0562",
+    "t": "Él está hablando por teléfono.",
+    "en": "He's talking on the telephone.",
+    "lv": "A2",
+    "words": [
+     "w0024",
+     "w0010",
+     "w0066",
+     "w0011",
+     "w0409"
+    ],
+    "marks": [
+     [
+      3,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p14.5",
+    "src": "s0552",
+    "t": "Mi esposa está intentando dormir.",
+    "en": "My wife is trying to sleep.",
+    "lv": "A2",
+    "words": [
+     "w0028",
+     "w0407",
+     "w0010",
+     "w0209",
+     "w0347"
+    ],
+    "marks": [
+     [
+      10,
+      14
+     ]
+    ]
+   },
+   {
+    "id": "p14.6",
+    "src": "s1637",
+    "t": "Tom está pensando en vender su casa.",
+    "en": "Tom is thinking of selling his house.",
+    "lv": "A2",
+    "words": [
+     "w0010",
+     "w0076",
+     "w0006",
+     "w0620",
+     "w0020",
+     "w0093"
+    ],
+    "marks": [
+     [
+      4,
+      8
+     ]
+    ]
+   }
+  ],
+  "near": [
+   "p01"
+  ]
+ },
+ {
+  "id": "p15",
+  "lv": "A2",
+  "label": "ha + participle",
+  "en": "has done",
+  "note": [
+   "Has done it, up to now.",
+   "ha + -ado / -ido: Tom ha vuelto."
+  ],
+  "keys": [
+   "w0013"
+  ],
+  "sentences": [
+   {
+    "id": "p15.1",
+    "src": "s1157",
+    "edited": true,
+    "t": "Mamá ha puesto la mesa.",
+    "en": "Mom has set the table.",
+    "lv": "A2",
+    "words": [
+     "w0341",
+     "w0013",
+     "w0090",
+     "w0001",
+     "w0427"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p15.2",
+    "src": "s2772",
+    "t": "Tom ha vuelto con su ex.",
+    "en": "Tom is back with his ex.",
+    "lv": "A2",
+    "words": [
+     "w0013",
+     "w0103",
+     "w0016",
+     "w0020",
+     "w1066"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p15.3",
+    "src": "s1255",
+    "edited": true,
+    "t": "Ella ha comprado un pollo.",
+    "en": "She has bought a chicken.",
+    "lv": "A2",
+    "words": [
+     "w0091",
+     "w0013",
+     "w0240",
+     "w0007",
+     "w0510"
+    ],
+    "marks": [
+     [
+      5,
+      7
+     ]
+    ]
+   },
+   {
+    "id": "p15.4",
+    "src": "s2173",
+    "t": "Tom ha perdido su tarjeta de acceso.",
+    "en": "Tom has lost his keycard.",
+    "lv": "A2",
+    "words": [
+     "w0013",
+     "w0160",
+     "w0020",
+     "w1083",
+     "w0002",
+     "w1124"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   },
+   {
+    "id": "p15.5",
+    "src": "s2307",
+    "t": "Él ha perdido todo su poder político.",
+    "en": "He has lost all his political power.",
+    "lv": "A2",
+    "words": [
+     "w0024",
+     "w0013",
+     "w0160",
+     "w0036",
+     "w0020",
+     "w1035"
+    ],
+    "marks": [
+     [
+      3,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p15.6",
+    "src": "s0386",
+    "t": "El verano se ha terminado.",
+    "en": "Summer has ended.",
+    "lv": "A2",
+    "words": [
+     "w0001",
+     "w0449",
+     "w0014",
+     "w0013",
+     "w0195"
+    ],
+    "marks": [
+     [
+      13,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p15.7",
+    "src": "s1267",
+    "edited": true,
+    "t": "Tom ha encontrado una nueva manera de anunciar sus noticias.",
+    "en": "Tom has found a new way to announce his news.",
+    "lv": "A2",
+    "words": [
+     "w0013",
+     "w0079",
+     "w0007",
+     "w0084",
+     "w0198",
+     "w0002",
+     "w1284",
+     "w0020",
+     "w0352"
+    ],
+    "marks": [
+     [
+      4,
+      6
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p16",
+  "lv": "A2",
+  "label": "volver a",
+  "en": "to do again",
+  "note": [
+   "Do it again.",
+   "volver a + verb: Volvió a llamar."
+  ],
+  "near": [
+   "p03",
+   "p10"
+  ],
+  "keys": [
+   "w0003"
+  ],
+  "sentences": [
+   {
+    "id": "p16.1",
+    "src": "s0496",
+    "t": "¡No quiero volver a verte!",
+    "en": "I don't ever want to see you again.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0034",
+     "w0103",
+     "w0003",
+     "w0035"
+    ],
+    "marks": [
+     [
+      18,
+      19
+     ]
+    ]
+   },
+   {
+    "id": "p16.2",
+    "src": "s2095",
+    "t": "Ella lo volvió a explicar.",
+    "en": "She explained it over again.",
+    "lv": "A2",
+    "words": [
+     "w0091",
+     "w0012",
+     "w0103",
+     "w0003",
+     "w0372"
+    ],
+    "marks": [
+     [
+      15,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p16.3",
+    "src": "s2690",
+    "t": "Tom se volvió a disculpar.",
+    "en": "Tom apologized again.",
+    "lv": "A2",
+    "words": [
+     "w0014",
+     "w0103",
+     "w0003",
+     "w0945"
+    ],
+    "marks": [
+     [
+      14,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p16.4",
+    "src": "s1076",
+    "t": "Te vuelvo a marcar en una hora.",
+    "en": "I'll call you up again in an hour.",
+    "lv": "A2",
+    "words": [
+     "w0027",
+     "w0103",
+     "w0003",
+     "w1250",
+     "w0006",
+     "w0007",
+     "w0138"
+    ],
+    "marks": [
+     [
+      10,
+      11
+     ]
+    ]
+   },
+   {
+    "id": "p16.5",
+    "src": "s1799",
+    "t": "No volveré a perdonar tus errores.",
+    "en": "I won't excuse your mistakes again.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0103",
+     "w0003",
+     "w0909",
+     "w0040",
+     "w0683"
+    ],
+    "marks": [
+     [
+      11,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p16.6",
+    "src": "s0707",
+    "t": "No vuelvas a cometer el mismo error.",
+    "en": "Don't make the same mistake again.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0103",
+     "w0003",
+     "w1024",
+     "w0001",
+     "w0130",
+     "w0683"
+    ],
+    "marks": [
+     [
+      11,
+      12
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p17",
+  "lv": "A2",
+  "label": "no … nada",
+  "en": "nothing / not anything",
+  "note": [
+   "Nothing: keep no before the verb and nada after it.",
+   "no + verb + nada: No sé nada. No hice nada."
+  ],
+  "keys": [
+   "w0070"
+  ],
+  "sentences": [
+   {
+    "id": "p17.1",
+    "src": "s0195",
+    "t": "No sé nada sobre ella.",
+    "en": "I know nothing about her.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0032",
+     "w0070",
+     "w0073",
+     "w0091"
+    ],
+    "marks": [
+     [
+      6,
+      10
+     ]
+    ]
+   },
+   {
+    "id": "p17.2",
+    "src": "s0301",
+    "t": "No tengo nada que declarar.",
+    "en": "I don't have anything to declare.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0015",
+     "w0070",
+     "w0967"
+    ],
+    "marks": [
+     [
+      9,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p17.3",
+    "src": "s0759",
+    "t": "Él no hizo nada malo.",
+    "en": "He did nothing wrong.",
+    "lv": "A2",
+    "words": [
+     "w0024",
+     "w0005",
+     "w0019",
+     "w0070",
+     "w0223"
+    ],
+    "marks": [
+     [
+      11,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p17.4",
+    "src": "s0892",
+    "t": "No puedo pensar en nada.",
+    "en": "I can't think of anything.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0022",
+     "w0076",
+     "w0006",
+     "w0070"
+    ],
+    "marks": [
+     [
+      19,
+      23
+     ]
+    ]
+   },
+   {
+    "id": "p17.5",
+    "src": "s2035",
+    "t": "No hagas nada que vayas a lamentar.",
+    "en": "Don't do anything you'll regret.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0019",
+     "w0070",
+     "w0009",
+     "w0021",
+     "w0003",
+     "w1301"
+    ],
+    "marks": [
+     [
+      9,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p17.6",
+    "src": "s2754",
+    "t": "No te puedo ofrecer nada a cambio.",
+    "en": "I can't offer you anything in return.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0027",
+     "w0022",
+     "w0607",
+     "w0070",
+     "w0003",
+     "w0302"
+    ],
+    "marks": [
+     [
+      20,
+      24
+     ]
+    ]
+   },
+   {
+    "id": "p17.7",
+    "src": "s2759",
+    "t": "No le digas nada a la prensa internacional.",
+    "en": "Don't say anything to the international press.",
+    "lv": "A2",
+    "words": [
+     "w0005",
+     "w0038",
+     "w0026",
+     "w0070",
+     "w0003",
+     "w0001",
+     "w1150",
+     "w0938"
+    ],
+    "marks": [
+     [
+      12,
+      16
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p18",
+  "lv": "B1",
+  "label": "ayer / hace",
+  "en": "yesterday / ago",
+  "note": [
+   "Yesterday or ago: the past is finished.",
+   "Ayer compré. hace un año = a year ago."
+  ],
+  "keys": [
+   "w0019",
+   "w0415"
+  ],
+  "sentences": [
+   {
+    "id": "p18.1",
+    "src": "s2864",
+    "t": "Este es el disco que compré ayer.",
+    "en": "This is the record which I bought yesterday.",
+    "lv": "B1",
+    "words": [
+     "w0025",
+     "w0004",
+     "w0001",
+     "w1277",
+     "w0240",
+     "w0415"
+    ],
+    "marks": [
+     [
+      28,
+      32
+     ]
+    ]
+   },
+   {
+    "id": "p18.2",
+    "src": "s0603",
+    "t": "Un desconocido me llamó ayer por teléfono.",
+    "en": "A stranger phoned me yesterday.",
+    "lv": "B1",
+    "words": [
+     "w0007",
+     "w1911",
+     "w0017",
+     "w0106",
+     "w0415",
+     "w0011",
+     "w0409"
+    ],
+    "marks": [
+     [
+      24,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p18.3",
+    "src": "s2318",
+    "t": "El programa fue emitido ayer por la radio.",
+    "en": "The program was broadcast over the radio yesterday.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w0378",
+     "w0004",
+     "w1865",
+     "w0415",
+     "w0011",
+     "w0924"
+    ],
+    "marks": [
+     [
+      24,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p18.4",
+    "src": "s0497",
+    "t": "Su abuelo murió de cáncer hace un año.",
+    "en": "His grandfather died of cancer a year ago.",
+    "lv": "B1",
+    "words": [
+     "w0020",
+     "w0472",
+     "w0172",
+     "w0002",
+     "w1614",
+     "w0019",
+     "w0007",
+     "w0059"
+    ],
+    "marks": [
+     [
+      26,
+      30
+     ]
+    ]
+   },
+   {
+    "id": "p18.5",
+    "src": "s2492",
+    "t": "Fue ascendido a coronel hace dos años.",
+    "en": "He was promoted to colonel two years ago.",
+    "lv": "B1",
+    "words": [
+     "w0004",
+     "w0003",
+     "w1363",
+     "w0019",
+     "w0069",
+     "w0059"
+    ],
+    "marks": [
+     [
+      24,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p18.6",
+    "src": "s2542",
+    "t": "La escuela se fundó hace setenta años.",
+    "en": "The school was founded seventy years ago.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w0309",
+     "w0014",
+     "w0019",
+     "w0566",
+     "w0059"
+    ],
+    "marks": [
+     [
+      20,
+      24
+     ]
+    ]
+   },
+   {
+    "id": "p18.7",
+    "src": "s0067",
+    "t": "La primera edición se publicó hace diez años.",
+    "en": "The first edition was published ten years ago.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w0095",
+     "w1720",
+     "w0014",
+     "w0761",
+     "w0019",
+     "w0416",
+     "w0059"
+    ],
+    "marks": [
+     [
+      30,
+      34
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p19",
+  "lv": "B1",
+  "label": "fue + participle",
+  "en": "was done (by)",
+  "note": [
+   "Was done by someone: the passive.",
+   "fue + -ado / -ido + por: Fue mordida por un animal."
+  ],
+  "near": [
+   "p01"
+  ],
+  "keys": [
+   "w0004"
+  ],
+  "sentences": [
+   {
+    "id": "p19.1",
+    "src": "s0834",
+    "t": "La ciudad fue destruida por el fuego.",
+    "en": "The city was destroyed by fire.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w0177",
+     "w0004",
+     "w0910",
+     "w0011",
+     "w0745"
+    ],
+    "marks": [
+     [
+      10,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p19.2",
+    "src": "s1003",
+    "t": "Ayer la casa fue golpeada por un rayo.",
+    "en": "The house was struck by lightning yesterday.",
+    "lv": "B1",
+    "words": [
+     "w0415",
+     "w0001",
+     "w0093",
+     "w0004",
+     "w1048",
+     "w0011",
+     "w0007",
+     "w1597"
+    ],
+    "marks": [
+     [
+      13,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p19.3",
+    "src": "s1681",
+    "t": "Su acción fue guiada por nobles ideas.",
+    "en": "His act was animated by noble ideals.",
+    "lv": "B1",
+    "words": [
+     "w0020",
+     "w0653",
+     "w0004",
+     "w0011",
+     "w0187"
+    ],
+    "marks": [
+     [
+      10,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p19.4",
+    "src": "s0236",
+    "t": "Mucha gente fue engañada por ese anuncio.",
+    "en": "Many people were deceived by the advertisement.",
+    "lv": "B1",
+    "words": [
+     "w0114",
+     "w0004",
+     "w1281",
+     "w0011",
+     "w0039",
+     "w1636"
+    ],
+    "marks": [
+     [
+      12,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p19.5",
+    "src": "s2729",
+    "t": "El campeón fue recibido por una enorme multitud.",
+    "en": "The champion was welcomed by large crowds.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w1682",
+     "w0004",
+     "w0234",
+     "w0011",
+     "w0007",
+     "w1089"
+    ],
+    "marks": [
+     [
+      11,
+      14
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p20",
+  "lv": "B1",
+  "label": "si + past subjunctive",
+  "en": "if (imagined)",
+  "note": [
+   "Imagined if: what would happen.",
+   "si + -ara / -iera, then -ría: Si pudiera, iría."
+  ],
+  "near": [
+   "p21"
+  ],
+  "keys": [
+   "w0029"
+  ],
+  "sentences": [
+   {
+    "id": "p20.1",
+    "src": "s1713",
+    "t": "¿Qué haría usted si perdiese su empleo?",
+    "en": "What would you do if you lost your job?",
+    "lv": "B1",
+    "words": [
+     "w0023",
+     "w0019",
+     "w0164",
+     "w0029",
+     "w0160",
+     "w0020",
+     "w1304"
+    ],
+    "marks": [
+     [
+      17,
+      19
+     ]
+    ]
+   },
+   {
+    "id": "p20.2",
+    "src": "s0024",
+    "t": "¡Sería genial si pudiera hablar diez idiomas!",
+    "en": "It would be so cool if I could speak ten languages!",
+    "lv": "B1",
+    "words": [
+     "w0004",
+     "w0711",
+     "w0029",
+     "w0022",
+     "w0066",
+     "w0416",
+     "w0505"
+    ],
+    "marks": [
+     [
+      14,
+      16
+     ]
+    ]
+   },
+   {
+    "id": "p20.3",
+    "src": "s1149",
+    "edited": true,
+    "t": "Ella parecía como si hubiera visto un fantasma.",
+    "en": "She looked as if she had seen a ghost.",
+    "lv": "B1",
+    "words": [
+     "w0091",
+     "w0101",
+     "w0033",
+     "w0029",
+     "w0013",
+     "w0035",
+     "w0007",
+     "w1721"
+    ],
+    "marks": [
+     [
+      18,
+      20
+     ]
+    ]
+   },
+   {
+    "id": "p20.4",
+    "src": "s1466",
+    "t": "Este chico habla como si fuera un adulto.",
+    "en": "That boy talks as if he were a grown up.",
+    "lv": "B1",
+    "words": [
+     "w0025",
+     "w0262",
+     "w0066",
+     "w0033",
+     "w0029",
+     "w0004",
+     "w0007",
+     "w1671"
+    ],
+    "marks": [
+     [
+      22,
+      24
+     ]
+    ]
+   },
+   {
+    "id": "p20.5",
+    "src": "s1855",
+    "edited": true,
+    "t": "Aprendería a bailar si tuviera más tiempo.",
+    "en": "I would learn how to dance if I had more time.",
+    "lv": "B1",
+    "words": [
+     "w0029",
+     "w0015",
+     "w0031",
+     "w0074",
+     "w0362",
+     "w0003",
+     "w0980"
+    ],
+    "marks": [
+     [
+      20,
+      22
+     ]
+    ]
+   },
+   {
+    "id": "p20.6",
+    "src": "s2018",
+    "edited": true,
+    "t": "Saldría seguido y me divertiría si tuviera dinero.",
+    "en": "I would often go out and have fun if I had the money.",
+    "lv": "B1",
+    "words": [
+     "w0029",
+     "w0015",
+     "w0193",
+     "w0108",
+     "w1546",
+     "w0008",
+     "w0017",
+     "w1438"
+    ],
+    "marks": [
+     [
+      32,
+      34
+     ]
+    ]
+   },
+   {
+    "id": "p20.7",
+    "src": "s1428",
+    "edited": true,
+    "t": "Probablemente estarías más sano si comieras menos hamburguesas.",
+    "en": "You'd probably be healthier if you ate fewer burgers.",
+    "lv": "B1",
+    "words": [
+     "w0029",
+     "w0228",
+     "w0134",
+     "w0736",
+     "w0010",
+     "w0031",
+     "w1787"
+    ],
+    "marks": [
+     [
+      32,
+      34
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p21",
+  "lv": "B1",
+  "label": "cuando + subjunctive",
+  "en": "when (not yet true)",
+  "note": [
+   "When, for something that has not happened yet.",
+   "cuando + subjunctive: cuando tengas tiempo."
+  ],
+  "near": [
+   "p09"
+  ],
+  "keys": [
+   "w0053"
+  ],
+  "sentences": [
+   {
+    "id": "p21.1",
+    "src": "s0506",
+    "t": "Lo haremos cuando tengamos tiempo.",
+    "en": "We'll do it when we have time.",
+    "lv": "B1",
+    "words": [
+     "w0012",
+     "w0019",
+     "w0053",
+     "w0015",
+     "w0074"
+    ],
+    "marks": [
+     [
+      11,
+      17
+     ]
+    ]
+   },
+   {
+    "id": "p21.2",
+    "src": "s1575",
+    "t": "Empezaremos el partido cuando llegue.",
+    "en": "We will begin the match when he comes.",
+    "lv": "B1",
+    "words": [
+     "w0168",
+     "w0001",
+     "w0329",
+     "w0053",
+     "w0099"
+    ],
+    "marks": [
+     [
+      23,
+      29
+     ]
+    ]
+   },
+   {
+    "id": "p21.3",
+    "src": "s1381",
+    "t": "Pregunta al profesor cuando tengas una duda.",
+    "en": "Ask the teacher when you have a question.",
+    "lv": "B1",
+    "words": [
+     "w0213",
+     "w0003",
+     "w0663",
+     "w0053",
+     "w0015",
+     "w0007",
+     "w0743"
+    ],
+    "marks": [
+     [
+      21,
+      27
+     ]
+    ]
+   },
+   {
+    "id": "p21.4",
+    "src": "s1645",
+    "edited": true,
+    "t": "Di la verdad cuando quieras engañar al mundo.",
+    "en": "Tell the truth when you want to fool the world.",
+    "lv": "B1",
+    "words": [
+     "w0053",
+     "w0034",
+     "w1281",
+     "w0003",
+     "w0124",
+     "w0041",
+     "w0001",
+     "w0115"
+    ],
+    "marks": [
+     [
+      13,
+      19
+     ]
+    ]
+   },
+   {
+    "id": "p21.5",
+    "src": "s2077",
+    "edited": true,
+    "t": "Te voy a extrañar mucho cuando te vayas.",
+    "en": "I'll miss you very much when you go.",
+    "lv": "B1",
+    "words": [
+     "w0053",
+     "w0027",
+     "w0021",
+     "w0003",
+     "w1630",
+     "w0129"
+    ],
+    "marks": [
+     [
+      24,
+      30
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p22",
+  "lv": "B1",
+  "label": "que + subjunctive",
+  "en": "that (wish, need, doubt)",
+  "note": [
+   "After need, doubt or it is possible: subjunctive.",
+   "Es posible que llueva. Necesito que vengas."
+  ],
+  "keys": [
+   "w0009"
+  ],
+  "sentences": [
+   {
+    "id": "p22.1",
+    "src": "s2937",
+    "t": "Necesito que él me dé su apoyo.",
+    "en": "I need him to vouch for me.",
+    "lv": "B1",
+    "words": [
+     "w0102",
+     "w0009",
+     "w0024",
+     "w0017",
+     "w0041",
+     "w0020",
+     "w0939"
+    ],
+    "marks": [
+     [
+      9,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p22.2",
+    "src": "s2736",
+    "t": "Necesito que le eches un vistazo a esto.",
+    "en": "I need you to take a look at this.",
+    "lv": "B1",
+    "words": [
+     "w0102",
+     "w0009",
+     "w0038",
+     "w0374",
+     "w0007",
+     "w1790",
+     "w0003",
+     "w0054"
+    ],
+    "marks": [
+     [
+      9,
+      12
+     ]
+    ]
+   },
+   {
+    "id": "p22.3",
+    "src": "s0228",
+    "t": "Es posible que llueva mañana.",
+    "en": "It may rain tomorrow.",
+    "lv": "B1",
+    "words": [
+     "w0004",
+     "w0289",
+     "w0009",
+     "w0279"
+    ],
+    "marks": [
+     [
+      11,
+      14
+     ]
+    ]
+   },
+   {
+    "id": "p22.4",
+    "src": "s0203",
+    "t": "No es necesario que asistamos a la conferencia.",
+    "en": "We don't need to attend that meeting.",
+    "lv": "B1",
+    "words": [
+     "w0005",
+     "w0004",
+     "w0637",
+     "w0009",
+     "w1639",
+     "w0003",
+     "w0001",
+     "w1553"
+    ],
+    "marks": [
+     [
+      16,
+      19
+     ]
+    ]
+   },
+   {
+    "id": "p22.5",
+    "src": "s2155",
+    "t": "Pienso que es importante que mantengamos la calma.",
+    "en": "I think it important that we should keep calm.",
+    "lv": "B1",
+    "words": [
+     "w0076",
+     "w0009",
+     "w0004",
+     "w0208",
+     "w0226",
+     "w0001",
+     "w1637"
+    ],
+    "marks": [
+     [
+      25,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p22.6",
+    "src": "s1372",
+    "t": "No creo que sea raro en absoluto.",
+    "en": "I don't think it's weird at all.",
+    "lv": "B1",
+    "words": [
+     "w0005",
+     "w0052",
+     "w0009",
+     "w0004",
+     "w0713",
+     "w0585"
+    ],
+    "marks": [
+     [
+      8,
+      11
+     ]
+    ]
+   }
+  ],
+  "near": [
+   "p04",
+   "p08"
+  ]
+ },
+ {
+  "id": "p23",
+  "lv": "B1",
+  "label": "al + infinitive",
+  "en": "on doing",
+  "note": [
+   "On doing something: at that moment.",
+   "al + verb: Al caer, se lastimó."
+  ],
+  "near": [
+   "p06"
+  ],
+  "keys": [
+   "w0003"
+  ],
+  "sentences": [
+   {
+    "id": "p23.1",
+    "src": "s1772",
+    "t": "Hay un hotel al cruzar la calle.",
+    "en": "There's a hotel across the street.",
+    "lv": "B1",
+    "words": [
+     "w0587",
+     "w0007",
+     "w0436",
+     "w0003",
+     "w1060",
+     "w0001",
+     "w0321"
+    ],
+    "marks": [
+     [
+      13,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p23.2",
+    "src": "s0680",
+    "t": "Cometiste un error al rechazar su ayuda.",
+    "en": "You were wrong to refuse his help.",
+    "lv": "B1",
+    "words": [
+     "w1024",
+     "w0007",
+     "w0683",
+     "w0003",
+     "w1240",
+     "w0020",
+     "w0312"
+    ],
+    "marks": [
+     [
+      19,
+      21
+     ]
+    ]
+   },
+   {
+    "id": "p23.3",
+    "src": "s0175",
+    "t": "Justo al colgar el teléfono, volvió a sonar.",
+    "en": "No sooner had I hung up than the phone started ringing again.",
+    "lv": "B1",
+    "words": [
+     "w0771",
+     "w0003",
+     "w1762",
+     "w0001",
+     "w0409",
+     "w0103",
+     "w0709"
+    ],
+    "marks": [
+     [
+      6,
+      8
+     ]
+    ]
+   },
+   {
+    "id": "p23.4",
+    "src": "s0719",
+    "t": "No pude resistir reírme al verlo bailar.",
+    "en": "I could not help laughing to see him dancing.",
+    "lv": "B1",
+    "words": [
+     "w0005",
+     "w0022",
+     "w1860",
+     "w0882",
+     "w0003",
+     "w0035",
+     "w0980"
+    ],
+    "marks": [
+     [
+      24,
+      26
+     ]
+    ]
+   },
+   {
+    "id": "p23.5",
+    "src": "s2245",
+    "t": "Incluso los japoneses pueden equivocarse al hablar japonés.",
+    "en": "Even Japanese can make mistakes when they speak Japanese.",
+    "lv": "B1",
+    "words": [
+     "w0294",
+     "w0001",
+     "w0022",
+     "w1315",
+     "w0003",
+     "w0066",
+     "w1994"
+    ],
+    "marks": [
+     [
+      41,
+      43
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p24",
+  "lv": "B1",
+  "label": "ya / todavía",
+  "en": "already / still",
+  "note": [
+   "Already or no longer, versus still.",
+   "ya no = no longer; todavía = still."
+  ],
+  "keys": [
+   "w0045",
+   "w0252"
+  ],
+  "sentences": [
+   {
+    "id": "p24.1",
+    "src": "s0194",
+    "t": "Él ya debería haber llegado.",
+    "en": "He should have arrived already.",
+    "lv": "B1",
+    "words": [
+     "w0024",
+     "w0045",
+     "w0050",
+     "w0013",
+     "w0099"
+    ],
+    "marks": [
+     [
+      3,
+      5
+     ]
+    ]
+   },
+   {
+    "id": "p24.2",
+    "src": "s0544",
+    "edited": true,
+    "t": "¿Ha empezado ya la película?",
+    "en": "Has the movie started yet?",
+    "lv": "B1",
+    "words": [
+     "w0045",
+     "w0013",
+     "w0168",
+     "w0001",
+     "w0342"
+    ],
+    "marks": [
+     [
+      13,
+      15
+     ]
+    ]
+   },
+   {
+    "id": "p24.3",
+    "src": "s0911",
+    "t": "La famosa huella de Neil Armstrong está todavía justo donde la dejó.",
+    "en": "Neil Armstrong's famous footprint is still right where he left it.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w1064",
+     "w1650",
+     "w0002",
+     "w0010",
+     "w0252",
+     "w0771",
+     "w0229",
+     "w0588",
+     "w0061"
+    ],
+    "marks": [
+     [
+      40,
+      47
+     ]
+    ]
+   },
+   {
+    "id": "p24.4",
+    "src": "s0838",
+    "edited": true,
+    "t": "¿Has leído ya el diario de hoy?",
+    "en": "Have you read today's paper yet?",
+    "lv": "B1",
+    "words": [
+     "w0045",
+     "w0013",
+     "w0212",
+     "w0001",
+     "w1034",
+     "w0002",
+     "w0149"
+    ],
+    "marks": [
+     [
+      11,
+      13
+     ]
+    ]
+   },
+   {
+    "id": "p24.5",
+    "src": "s2522",
+    "edited": true,
+    "t": "El gato desaparecido todavía no se ha encontrado.",
+    "en": "The missing cat has not been found yet.",
+    "lv": "B1",
+    "words": [
+     "w0001",
+     "w1793",
+     "w0252",
+     "w0005",
+     "w0014",
+     "w0013",
+     "w0079",
+     "w0457"
+    ],
+    "marks": [
+     [
+      21,
+      28
+     ]
+    ]
+   },
+   {
+    "id": "p24.6",
+    "src": "s0541",
+    "edited": true,
+    "t": "¿Has terminado ya de limpiar tu habitación?",
+    "en": "Have you finished cleaning your room yet?",
+    "lv": "B1",
+    "words": [
+     "w0045",
+     "w0013",
+     "w0195",
+     "w0002",
+     "w1245",
+     "w0040",
+     "w0423"
+    ],
+    "marks": [
+     [
+      15,
+      17
+     ]
+    ]
+   }
+  ]
+ }
+]
