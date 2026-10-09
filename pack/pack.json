@@ -150,19 +150,9 @@
   },
   "showPron": false,
   "hasLessons": false,
-  "dayAware": true,
   "typedFrom": [
     "written"
   ],
-  "glossFocus": true,
-  "glossStyle": "primary",
-  "helpClose": true,
-  "readAnswerBlock": true,
-  "optsMix": true,
-  "pauseNew": true,
-  "listenQuestions": "all",
-  "readRotation": true,
-  "wordsBy": "typed",
   "progressMap": {
     "goals": [
       {
@@ -179,17 +169,8 @@
       }
     ]
   },
-  "pairs": true,
-  "freqTiers": true,
-  "progressView": "v2",
-  "appView": "v2",
-  "levelGate": 0.7,
-  "placementWhole": true,
   "patterns": true,
   "patternCue": "after",
-  "placementEarlyStop": true,
-  "placedRead": true,
-  "placedKnown": true,
   "gapGender": true,
   "eta": {
     "curve": [
