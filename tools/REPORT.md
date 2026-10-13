@@ -56,7 +56,7 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 994, 'verb': 450, 'adj'
 ## Sentences
 
 - Final sentences: **3,286**, 2 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
-- Sentence ids (`tools/sentence_ids_v1.json`): 3,282 kept, 4 new (s3287, s3288, s3289, s3290), 4 retired.
+- Sentence ids (`tools/sentence_ids_v1.json`): 3,286 kept, 0 new, 4 retired.
 - Word coverage: 0 = 2, 1 = 4, 2 = 1994.
 - Words with no sentence: el período, ultimar.
 - Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 175,282. Rejected for a content lemma outside pack/top-3000: 65,122.
