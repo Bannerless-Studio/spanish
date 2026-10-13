@@ -1,0 +1,9 @@
+{
+  "_note": "Display-only senses merged into en after ranking and linking (core/words.apply_gloss_display): verbs the builder shows as base lemma + reflexive combined gloss (levantar; levantarse: ...), where gloss_overrides.json would only feed one half.",
+  "levantar|verb": "to lift, to raise; to get up (levantarse)",
+  "encargar|verb": "to order, to entrust; to take charge (encargarse)",
+  "rendir|verb": "to yield, to produce; to give in (rendirse)",
+  "acostar|verb": "to put to bed; to go to bed (acostarse)",
+  "mudar|verb": "to change; to move house (mudarse)",
+  "divertirse|verb": "to have fun, to enjoy oneself"
+}

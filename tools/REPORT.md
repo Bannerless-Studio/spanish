@@ -56,16 +56,17 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 994, 'verb': 450, 'adj'
 ## Sentences
 
 - Final sentences: **3,286**, 2 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Sentence ids (`tools/sentence_ids_v1.json`): 3,282 kept, 4 new (s3287, s3288, s3289, s3290), 4 retired.
 - Word coverage: 0 = 2, 1 = 4, 2 = 1994.
 - Words with no sentence: el período, ultimar.
 - Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 175,282. Rejected for a content lemma outside pack/top-3000: 65,122.
 - Voseo / regional slang: 4,749 candidates contain one; 4,745 were blocked for A1/A2 words; 62 in the final set (all lv B1).
-- Primary word level of each sentence: {'A1': 816, 'A2': 1181, 'B1': 1289}.
+- Primary word level of each sentence: {'A1': 815, 'A2': 1182, 'B1': 1289}.
 - Token-length distribution of the final set:
 
 | tokens | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| sentences | 17 | 804 | 195 | 1152 | 928 | 122 | 30 | 15 | 17 | 3 | 3 |
+| sentences | 17 | 803 | 195 | 1153 | 928 | 122 | 30 | 15 | 17 | 3 | 3 |
 
 ## Top 100 by rank (lemma [pos] gloss)
 
@@ -80,7 +81,7 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 994, 'verb': 450, 'adj'
    8 y [conj] and
    9 que [conj] that; than
   10 estar [verb] to be (state, location)
-  11 por [prep] for; by
+  11 por [prep] for; by, through
   12 lo [pron] him, it
   13 haber [verb] to have (auxiliary)
   14 se [pron] himself, herself, themselves; oneself
@@ -94,14 +95,14 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 994, 'verb': 450, 'adj'
   22 poder [verb] can, to be able to
   23 qué [pron] what
   24 él [pron] he, him
-  25 este [det] this
-  26 decir [verb] to say, to tell, to name
+  25 este [det] this (before a noun)
+  26 decir [verb] to say, to tell
   27 te [pron] you, to you; yourself
   28 mi [det] my
   29 si [conj] if, whether
   30 pero [conj] but
   31 más [adv] more
-  32 saber [verb] to know, to understand
+  32 saber [verb] to know (a fact); to know how to
   33 como [conj] as, like
   34 querer [verb] to want, to want to, to desire
   35 ver [verb] to see, to spot
@@ -123,8 +124,8 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 994, 'verb': 450, 'adj'
   51 la vez [noun] time, instance
   52 creer [verb] to think, to believe, to be of the opinion
   53 cuando [conj] when
-  54 esto [pron] this
-  55 pasar [verb] to happen; to spend
+  54 esto [pron] this (thing)
+  55 pasar [verb] to happen; to pass; to spend (time)
   56 nos [pron] us, to us; ourselves
   57 el día [noun] day
   58 ahora [adv] now
@@ -133,7 +134,7 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 994, 'verb': 450, 'adj'
   61 dejar [verb] to leave; to let, to allow
   62 nuestro [det] our, ours
   63 porque [conj] because
-  64 solo [adv] only
+  64 solo [adv] only, just
   65 algo [pron] something, anything
   66 hablar [verb] to speak
   67 sin [prep] without
@@ -155,19 +156,19 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 994, 'verb': 450, 'adj'
   83 tan [adv] so, as
   84 nuevo [adj] new
   85 esperar [verb] to wait
-  86 llevar [verb] to wear; to take somewhere
+  86 llevar [verb] to carry, to take along; to wear
   87 sentirse [verb] to feel
   88 tú [pron] you
   89 la vida [noun] life
   90 poner [verb] to put, to place
   91 ella [pron] she, her
-  92 quién [pron] who
+  92 quién [pron] who?
   93 la casa [noun] house
   94 el hombre [noun] man
   95 primero [adj] first
   96 desde [prep] since; from
   97 mejor [adj] better
-  98 seguir [verb] to follow
+  98 seguir [verb] to follow; to continue
   99 llegar [verb] to arrive, to get
  100 nunca [adv] never
 ```

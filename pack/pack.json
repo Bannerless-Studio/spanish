@@ -150,6 +150,8 @@
   },
   "showPron": false,
   "hasLessons": false,
+  "patterns": true,
+  "patternCue": "after",
   "typedFrom": [
     "written"
   ],
@@ -169,8 +171,6 @@
       }
     ]
   },
-  "patterns": true,
-  "patternCue": "after",
   "gapGender": true,
   "eta": {
     "curve": [
