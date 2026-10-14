@@ -75,18 +75,18 @@ tokens of the passage text, the count the app shows (report only).
 | p0058 | B1 | Aprender un idioma de adulto | 125 | 125 | 0.976 | 0.976 | gramática x1 (language-learning word (grammar)), pronunciación x1 (language-learning word (pronunciation)), soltura x1 (fixed phrase con soltura (fluently)) | - |
 | p0059 | B1 | Dentro de diez años | 122 | 122 | 0.983 | 0.983 | arquitectura x1 (field of study (architecture)), diseñar x1 (natural wording (to design)) | - |
 | p0060 | B1 | Una semana sin coche | 131 | 131 | 0.976 | 0.976 | euro x1 (currency (euro)), gasolina x1 (everyday word (petrol)), reto x1 (natural wording (challenge)) | - |
-| p0061 | A2 | Una carta para Elena | 113 | 113 | 1.000 | 1.000 | - | - |
+| p0061 | A2 | Una carta para Elena | 113 | 113 | 1.000 | 1.000 | - | B1: pleno |
 | p0062 | A2 | Una cita en el centro de salud | 102 | 102 | 1.000 | 1.000 | - | - |
-| p0063 | A2 | Un puente nuevo sobre el río | 110 | 110 | 1.000 | 1.000 | - | - |
+| p0063 | A2 | Un puente nuevo sobre el río | 109 | 109 | 1.000 | 1.000 | - | - |
 | p0064 | A2 | La entrevista de Óscar | 108 | 108 | 1.000 | 1.000 | - | - |
 | p0065 | A2 | Querido diario: el concierto | 119 | 119 | 1.000 | 1.000 | - | B1: concierto |
 | p0066 | A2 | Bienvenidos al Club de Lectura | 120 | 120 | 1.000 | 1.000 | - | B1: biblioteca, favorito |
 | p0067 | A2 | Entrevista a una artista | 119 | 119 | 1.000 | 1.000 | - | - |
 | p0068 | A2 | El auto de Daniel | 94 | 94 | 1.000 | 1.000 | - | B1: ruido |
 | p0069 | A2 | Un fin de semana en el campo | 111 | 111 | 1.000 | 1.000 | - | - |
-| p0070 | A2 | Un plan para el cine | 96 | 96 | 1.000 | 1.000 | - | - |
+| p0070 | A2 | Un plan para el cine | 94 | 94 | 1.000 | 1.000 | - | - |
 | p0071 | B1 | La presentación del jueves | 117 | 117 | 1.000 | 1.000 | - | - |
-| p0072 | B1 | Una escritora en casa | 144 | 144 | 1.000 | 1.000 | - | - |
+| p0072 | B1 | Una escritora en casa | 143 | 143 | 1.000 | 1.000 | - | - |
 | p0073 | B1 | La ropa de segunda mano | 134 | 134 | 1.000 | 1.000 | - | - |
 | p0074 | B1 | Una cena en El Rincón | 131 | 131 | 1.000 | 1.000 | - | - |
 | p0075 | B1 | Día de viento en el aeropuerto | 115 | 115 | 1.000 | 1.000 | - | - |
@@ -194,7 +194,7 @@ the budget rule above is unchanged):
   lemma declared. A2 uses at most one B1 lemma per passage except p0066 (two).
   Questions: 60 mc (answer positions 15/15/15/15, none the unique longest
   option) and 40 tf (22 false, 18 true). No tf item shares a 5-word run with
-  its text. Verbatim mc keys: 3 A2, 3 B1.
+  its text. Verbatim mc keys: 2 A2, 3 B1.
 - **Under-used words.** 183 A2/B1 pack words that p0001-p0060 never linked
   (117 A2, 66 B1) are linked in the new texts or their questions.
 - **Stored order of `words`.** The current builder emits the same word ids per

@@ -7213,7 +7213,7 @@
       "Al principio del verano",
       "Dentro de una semana",
       "Al final del año",
-      "Después de la primavera"
+      "En pleno verano"
      ],
      "answer": 2,
      "words": [
@@ -7445,8 +7445,8 @@
      "The head of the building work said the bridge is very strong and will last a hundred years."
     ],
     [
-     "Mañana habrá música en el puente, y no hay que pagar para entrar.",
-     "Tomorrow there will be music on the bridge, and you don't have to pay to get in."
+     "Mañana habrá música en el puente, y no hay que pagar nada.",
+     "Tomorrow there will be music on the bridge, and you don't have to pay anything."
     ]
    ],
    "questions": [
@@ -8301,8 +8301,8 @@
      "\"The new one by Pedro Aguirre. They say the story is a bit strange, but very good.\""
     ],
     [
-     "—Probablemente es mejor ir mañana. Hoy hace mal tiempo y no tengo ganas de salir.",
-     "\"It's probably better to go tomorrow. The weather is bad today and I don't feel like going out.\""
+     "—Mejor vamos mañana. Hoy hace mal tiempo y no tengo ganas de salir.",
+     "\"Better to go tomorrow. The weather is bad today and I don't feel like going out.\""
     ],
     [
      "—Mañana no puedo. Tengo que cuidar a mi hermana pequeña, porque mis padres salen toda la tarde.",
@@ -8317,7 +8317,7 @@
      "\"Perfect. I'll buy the tickets right now.\""
     ],
     [
-     "—Y yo llevo algo de comer. Simplemente tienes que llegar a tiempo.",
+     "—Y yo llevo algo de comer. Solo tienes que llegar a tiempo.",
      "\"And I'll bring something to eat. You just have to be on time.\""
     ]
    ],
@@ -8379,20 +8379,20 @@
      "sentence": 6
     },
     {
-     "q": "¿Cuándo van a ir finalmente al cine?",
-     "en": "When are they finally going to the cinema?",
+     "q": "¿Qué va a hacer uno de los amigos ahora mismo?",
+     "en": "What is one of the friends going to do right now?",
      "type": "mc",
      "options": [
-      "El sábado",
-      "Hoy mismo",
-      "Mañana por la tarde",
-      "El lunes que viene"
+      "Comprar las entradas",
+      "Preparar algo de comer para los dos",
+      "Llamar a su hermana pequeña",
+      "Salir de casa hacia el cine"
      ],
      "answer": 0,
      "words": [
-      "sábado"
+      "entrada"
      ],
-     "sentence": 7
+     "sentence": 8
     }
    ]
   },
@@ -8440,7 +8440,7 @@
     ],
     [
      "Gracias por tu ayuda: sin ti no lo conseguiría.",
-     "Thanks for your help: without you I wouldn't manage it."
+     "Thanks for your help: I couldn't have done it without you."
     ],
     [
      "Un saludo, Lucía",
@@ -8539,8 +8539,8 @@
      "\"I write every morning, from eight to twelve,\" she explains. \"In the afternoon I read, walk, or simply do nothing.\""
     ],
     [
-     "Según ella, el comienzo de un libro es siempre lo más difícil: puede pasar semanas sin escribir un solo capítulo.",
-     "According to her, the beginning of a book is always the hardest part: she can spend weeks without writing a single chapter."
+     "Según ella, el comienzo de un libro es siempre lo más difícil: puede pasar semanas sin escribir un capítulo.",
+     "According to her, the beginning of a book is always the hardest part: she can spend weeks without writing a chapter."
     ],
     [
      "«Cuando por fin encuentro el personaje correcto, la historia crece sola.»",
@@ -8776,7 +8776,7 @@
     ],
     [
      "Pedimos dos platos de pescado y uno de carne, y de beber, agua y un vino de la casa.",
-     "We ordered two fish dishes and one meat dish, and to drink, water and the house wine."
+     "We ordered two fish dishes and one meat dish, and to drink, water and a house wine."
     ],
     [
      "La comida llegó muy rápido, pero el pescado estaba un poco frío.",
@@ -9566,7 +9566,7 @@
      "sentence": 3
     },
     {
-     "q": "Se puede apuntar uno la misma mañana de la carrera.",
+     "q": "Uno puede apuntarse la misma mañana de la carrera.",
      "en": "You can sign up on the very morning of the race.",
      "type": "tf",
      "options": null,
