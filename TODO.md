@@ -79,7 +79,7 @@ Residuals after QA round 1 and its fix round. Rules and counts are in
   translation_mismatch) are off for Italian. Each could be tried there.
 
 ## Reading passages
-- A native-speaker pass over the 60 texts has not been done yet; only an
+- A native-speaker pass over the 80 texts has not been done yet; only an
   automated QA pass plus one round of manual/external QA fixes.
 - Known builder quirk: the adjective solo (w0110) is added to the
   sentence's `words` without a span in p0017 s4, p0045 s1 and p0051 s0.

@@ -10,8 +10,8 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 67-90 (median 85.0); ws_words 67-90; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 52, tf 43
-- **A2**: 20 passages; words/passage 99-120 (median 113.0); ws_words 99-120; coverage min 0.982, median 1.000 (rule >= 0.95); linked min 0.982; questions mc 59, tf 41
-- **B1**: 20 passages; words/passage 119-147 (median 132.5); ws_words 121-147; coverage min 0.953, median 0.985 (rule >= 0.93); linked min 0.953; questions mc 60, tf 40
+- **A2**: 30 passages; words/passage 94-120 (median 111.5); ws_words 94-120; coverage min 0.982, median 1.000 (rule >= 0.95); linked min 0.982; questions mc 89, tf 61
+- **B1**: 30 passages; words/passage 115-150 (median 132.5); ws_words 115-150; coverage min 0.953, median 1.000 (rule >= 0.93); linked min 0.953; questions mc 90, tf 60
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
 |---|---|---|---|---|---|---|---|---|
@@ -75,6 +75,26 @@ tokens of the passage text, the count the app shows (report only).
 | p0058 | B1 | Aprender un idioma de adulto | 125 | 125 | 0.976 | 0.976 | gramática x1 (language-learning word (grammar)), pronunciación x1 (language-learning word (pronunciation)), soltura x1 (fixed phrase con soltura (fluently)) | - |
 | p0059 | B1 | Dentro de diez años | 122 | 122 | 0.983 | 0.983 | arquitectura x1 (field of study (architecture)), diseñar x1 (natural wording (to design)) | - |
 | p0060 | B1 | Una semana sin coche | 131 | 131 | 0.976 | 0.976 | euro x1 (currency (euro)), gasolina x1 (everyday word (petrol)), reto x1 (natural wording (challenge)) | - |
+| p0061 | A2 | Una carta para Elena | 113 | 113 | 1.000 | 1.000 | - | - |
+| p0062 | A2 | Una cita en el centro de salud | 102 | 102 | 1.000 | 1.000 | - | - |
+| p0063 | A2 | Un puente nuevo sobre el río | 110 | 110 | 1.000 | 1.000 | - | - |
+| p0064 | A2 | La entrevista de Óscar | 108 | 108 | 1.000 | 1.000 | - | - |
+| p0065 | A2 | Querido diario: el concierto | 119 | 119 | 1.000 | 1.000 | - | B1: concierto |
+| p0066 | A2 | Bienvenidos al Club de Lectura | 120 | 120 | 1.000 | 1.000 | - | B1: biblioteca, favorito |
+| p0067 | A2 | Entrevista a una artista | 119 | 119 | 1.000 | 1.000 | - | - |
+| p0068 | A2 | El auto de Daniel | 94 | 94 | 1.000 | 1.000 | - | B1: ruido |
+| p0069 | A2 | Un fin de semana en el campo | 111 | 111 | 1.000 | 1.000 | - | - |
+| p0070 | A2 | Un plan para el cine | 96 | 96 | 1.000 | 1.000 | - | - |
+| p0071 | B1 | La presentación del jueves | 117 | 117 | 1.000 | 1.000 | - | - |
+| p0072 | B1 | Una escritora en casa | 144 | 144 | 1.000 | 1.000 | - | - |
+| p0073 | B1 | La ropa de segunda mano | 134 | 134 | 1.000 | 1.000 | - | - |
+| p0074 | B1 | Una cena en El Rincón | 131 | 131 | 1.000 | 1.000 | - | - |
+| p0075 | B1 | Día de viento en el aeropuerto | 115 | 115 | 1.000 | 1.000 | - | - |
+| p0076 | B1 | Mi primera clase | 128 | 128 | 1.000 | 1.000 | - | - |
+| p0077 | B1 | Un paseo por el bosque | 143 | 143 | 1.000 | 1.000 | - | - |
+| p0078 | B1 | Buscando apartamento | 122 | 122 | 1.000 | 1.000 | - | - |
+| p0079 | B1 | Aprender a pintar | 137 | 137 | 1.000 | 1.000 | - | - |
+| p0080 | B1 | Carrera popular de la ciudad | 150 | 150 | 1.000 | 1.000 | - | - |
 
 Title words, and question/option words the budget does not count (a numeral-like
 pack word), that are out of the pack or above the passage's level (report only;
@@ -85,6 +105,7 @@ the budget rule above is unchanged):
 - p0021: title 'vacaciones': vacación B1
 - p0033: title 'aviso': aviso B1
 - p0034: title 'compra': compra B1
+- p0065: title 'concierto': concierto B1
 
 <!-- manual section: kept across runs -->
 ## Manual QA (2026-09-24, author self-QA, revised after external QA)
@@ -160,3 +181,24 @@ the budget rule above is unchanged):
   adjective solo (w0110) is also added to the sentence's `words`, without a
   span, in p0017 s4, p0045 s1 and p0051 s0. This comes from the classify
   lemma fallback and was not changed.
+
+## +20 A2/B1 passages (p0061-p0080, 2026-10-14)
+
+- **Scope.** 10 A2 (p0061-p0070) and 10 B1 (p0071-p0080) were appended;
+  p0001-p0060 keep their ids, text, questions and spans. Levels now hold
+  20 / 30 / 30 passages.
+- **Genres.** Letter, phone call, short news, narrative, diary, club notice,
+  interview (two), dialogue (four), email, opinion, restaurant review, news
+  report, blog, announcement.
+- **Numbers.** All 20 have coverage 1.000 and linked 1.000 with no out-of-pack
+  lemma declared. A2 uses at most one B1 lemma per passage except p0066 (two).
+  Questions: 60 mc (answer positions 15/15/15/15, none the unique longest
+  option) and 40 tf (22 false, 18 true). No tf item shares a 5-word run with
+  its text. Verbatim mc keys: 3 A2, 3 B1.
+- **Under-used words.** 183 A2/B1 pack words that p0001-p0060 never linked
+  (117 A2, 66 B1) are linked in the new texts or their questions.
+- **Stored order of `words`.** The current builder emits the same word ids per
+  sentence as the stored p0001-p0060 in another order in 56 sentences
+  (spans and every other field equal). The shipped file keeps the stored
+  entries for p0001-p0060 byte for byte and takes p0061-p0080 from the build,
+  so a fresh `packbuilder passages` run reorders those 56 lists only.

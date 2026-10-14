@@ -14,7 +14,7 @@ before touching any file here; it says what is hand-maintained vs generated.
   (ser "identity, nature, time" vs estar "state, location").
 - `forced_a1.txt` — hand-maintained. A1 core word list forced into A1 (closed
   sets and fixed phrases live in `langs/es.py` instead).
-- `passages_src.json` — hand-maintained. Source text for the 60 reading
+- `passages_src.json` — hand-maintained. Source text for the 80 reading
   passages; `packbuilder passages` builds `pack/passages.json` from it.
 - `id_map_v1.json` — generated, then frozen 2026-09-24 from the first
   shipped build. Maps (lemma, POS) to a fixed word id across rebuilds. Never

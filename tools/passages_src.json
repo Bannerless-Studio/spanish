@@ -7156,6 +7156,2445 @@
      "sentence": 7
     }
    ]
+  },
+  {
+   "id": "p0061",
+   "lv": "A2",
+   "title": "Una carta para Elena",
+   "oop": {},
+   "sentences": [
+    [
+     "Querida Elena:",
+     "Dear Elena,"
+    ],
+    [
+     "Hace un mes que estás en la universidad y todavía no te he mandado ninguna carta.",
+     "You have been at university for a month and I still haven't sent you a single letter."
+    ],
+    [
+     "Perdona, pero he tenido mucho trabajo en el negocio de tu padre.",
+     "Sorry, but I've had a lot of work at your father's business."
+    ],
+    [
+     "Tu hermano dice que regresas a casa en diciembre, y yo estoy muy contenta.",
+     "Your brother says you are coming back home in December, and I am very happy."
+    ],
+    [
+     "Ayer encontré una foto de cuando tenías cinco años: llevas un vestido rojo y estás muy graciosa.",
+     "Yesterday I found a photo of you at five years old: you are wearing a red dress and you look very funny."
+    ],
+    [
+     "A esa edad ya decías que tu sueño era ser médica.",
+     "At that age you already said your dream was to be a doctor."
+    ],
+    [
+     "Ahora estudias la carrera que querías, y eso es lo más importante.",
+     "Now you are studying the degree you wanted, and that is the most important thing."
+    ],
+    [
+     "No pienses demasiado en el futuro: cuida tu salud y descansa los fines de semana.",
+     "Don't think too much about the future: look after your health and rest at weekends."
+    ],
+    [
+     "Dime qué quieres comer cuando vuelvas y lo preparo.",
+     "Tell me what you want to eat when you come back and I'll make it."
+    ],
+    [
+     "Te quiero mucho. Tu madre",
+     "I love you very much. Your mother"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Cuándo vuelve Elena a casa?",
+     "en": "When is Elena coming home?",
+     "type": "mc",
+     "options": [
+      "Al principio del verano",
+      "Dentro de una semana",
+      "Al final del año",
+      "Después de la primavera"
+     ],
+     "answer": 2,
+     "words": [
+      "regresar"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "La madre ya ha mandado muchas cartas a Elena.",
+     "en": "The mother has already sent Elena many letters.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "mandar",
+      "carta"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "¿Qué quería ser Elena de niña?",
+     "en": "What did Elena want to be as a child?",
+     "type": "mc",
+     "options": [
+      "Médica",
+      "Profesora",
+      "Artista",
+      "Abogada"
+     ],
+     "answer": 0,
+     "words": [
+      "sueño",
+      "edad"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Elena estudia ahora lo que quería estudiar.",
+     "en": "Elena is now studying what she wanted to study.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "carrera"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "¿Qué consejo le da la madre?",
+     "en": "What advice does the mother give her?",
+     "type": "mc",
+     "options": [
+      "Que trabaje más",
+      "Que escriba cada día",
+      "Que no vuelva a casa",
+      "Que cuide su salud"
+     ],
+     "answer": 3,
+     "words": [
+      "cuidar",
+      "futuro"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0062",
+   "lv": "A2",
+   "title": "Una cita en el centro de salud",
+   "oop": {},
+   "sentences": [
+    [
+     "—Centro de Salud, buenos días. ¿En qué puedo ayudarle?",
+     "\"Health Centre, good morning. How can I help you?\""
+    ],
+    [
+     "—Buenos días, señorita. Quiero pedir una cita con el médico.",
+     "\"Good morning, miss. I would like to make an appointment with the doctor.\""
+    ],
+    [
+     "—¿Para qué fecha?",
+     "\"For what date?\""
+    ],
+    [
+     "—Para esta misma semana, si es posible. Me duele mucho un pie desde anoche.",
+     "\"For this very week, if possible. My foot has been hurting a lot since last night.\""
+    ],
+    [
+     "—Tengo una hora libre el jueves a las cuatro y media. ¿Le va bien?",
+     "\"I have a free slot on Thursday at half past four. Does that suit you?\""
+    ],
+    [
+     "—Perfecto. ¿Puede repetir la hora, por favor?",
+     "\"Perfect. Can you repeat the time, please?\""
+    ],
+    [
+     "—El jueves a las cuatro y media. Necesito su nombre, por favor.",
+     "\"Thursday at half past four. I need your name, please.\""
+    ],
+    [
+     "—Me llamo Roberto Díaz. ¿Me puede dar la dirección del centro?",
+     "\"My name is Roberto Díaz. Can you give me the centre's address?\""
+    ],
+    [
+     "—Claro. Estamos en la calle del Río, al lado del banco.",
+     "\"Of course. We are on Río Street, next to the bank.\""
+    ],
+    [
+     "—Gracias. Llegaré diez minutos antes.",
+     "\"Thank you. I'll arrive ten minutes early.\""
+    ],
+    [
+     "—Perfecto. Hasta el jueves, señor Díaz.",
+     "\"Perfect. See you on Thursday, Mr Díaz.\""
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Qué le pasa a Roberto?",
+     "en": "What is wrong with Roberto?",
+     "type": "mc",
+     "options": [
+      "Tiene mucho calor",
+      "Le duele un pie",
+      "No puede dormir",
+      "Ha perdido su teléfono"
+     ],
+     "answer": 1,
+     "words": [
+      "doler",
+      "pie",
+      "anoche"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "La cita es el viernes por la tarde.",
+     "en": "The appointment is on Friday afternoon.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "jueves",
+      "hora"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "¿Dónde está el centro de salud?",
+     "en": "Where is the health centre?",
+     "type": "mc",
+     "options": [
+      "Delante de la estación de tren",
+      "Detrás de un parque grande",
+      "Cerca del banco",
+      "Encima de una tienda pequeña"
+     ],
+     "answer": 2,
+     "words": [
+      "banco",
+      "lado"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "Roberto quiere llegar un poco antes de la hora.",
+     "en": "Roberto wants to arrive a little before the time.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "llegar",
+      "minuto",
+      "antes"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "¿Qué quiere saber Roberto al final?",
+     "en": "What does Roberto want to know at the end?",
+     "type": "mc",
+     "options": [
+      "Dónde está el centro",
+      "Cuánto cuesta la visita",
+      "Cómo se llama el médico",
+      "Si puede cambiar la fecha"
+     ],
+     "answer": 0,
+     "words": [
+      "dirección"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0063",
+   "lv": "A2",
+   "title": "Un puente nuevo sobre el río",
+   "oop": {},
+   "sentences": [
+    [
+     "La ciudad de Villanueva tiene desde hoy un puente nuevo sobre el río.",
+     "From today the city of Villanueva has a new bridge over the river."
+    ],
+    [
+     "Los trabajos empezaron hace dos años y han costado mucho dinero.",
+     "The work began two years ago and has cost a lot of money."
+    ],
+    [
+     "Antes, para cruzar el río, había que ir hasta el centro, y el viaje duraba casi media hora.",
+     "Before, to cross the river you had to go all the way to the centre, and the trip took almost half an hour."
+    ],
+    [
+     "Ahora el camino dura solo cinco minutos.",
+     "Now the trip takes only five minutes."
+    ],
+    [
+     "El puente es largo, nuevo y muy bonito, y tiene un espacio especial para las bicicletas.",
+     "The bridge is long, new and very pretty, and has a special space for bicycles."
+    ],
+    [
+     "Por la noche tiene luces de colores, y muchas familias salen a caminar.",
+     "At night it has coloured lights, and many families go out for a walk."
+    ],
+    [
+     "La jefa de la obra dijo que el puente es muy fuerte y que va a durar cien años.",
+     "The head of the building work said the bridge is very strong and will last a hundred years."
+    ],
+    [
+     "Mañana habrá música en el puente, y no hay que pagar para entrar.",
+     "Tomorrow there will be music on the bridge, and you don't have to pay to get in."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Cuánto tiempo dura ahora el camino?",
+     "en": "How long does the trip take now?",
+     "type": "mc",
+     "options": [
+      "Casi media hora",
+      "Más de una hora",
+      "Un día entero",
+      "Pocos minutos"
+     ],
+     "answer": 3,
+     "words": [
+      "durar"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "El puente tiene un espacio para las bicicletas.",
+     "en": "The bridge has a space for bicycles.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "espacio",
+      "bicicleta"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "¿Por qué había que ir al centro antes?",
+     "en": "Why did people have to go to the centre before?",
+     "type": "mc",
+     "options": [
+      "Para comprar pan en el mercado",
+      "Para llegar al otro lado",
+      "Para tomar un tren hacia el norte",
+      "Para ver una fiesta famosa"
+     ],
+     "answer": 1,
+     "words": [
+      "cruzar",
+      "río"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Los trabajos duraron solo una semana.",
+     "en": "The work lasted only a week.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "trabajo",
+      "año"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "¿Qué dice la jefa de la obra?",
+     "en": "What does the head of the building work say?",
+     "type": "mc",
+     "options": [
+      "Que el puente es demasiado pequeño para tanta gente",
+      "Que el puente cuesta muy poco dinero",
+      "Que el puente va a durar mucho",
+      "Que el puente cierra todas las noches"
+     ],
+     "answer": 2,
+     "words": [
+      "obra",
+      "fuerte"
+     ],
+     "sentence": 6
+    }
+   ]
+  },
+  {
+   "id": "p0064",
+   "lv": "A2",
+   "title": "La entrevista de Óscar",
+   "oop": {},
+   "names": [
+    "Óscar"
+   ],
+   "sentences": [
+    [
+     "Óscar tiene hoy su primera entrevista de trabajo en una compañía de teléfonos.",
+     "Today Óscar has his first job interview at a telephone company."
+    ],
+    [
+     "Se levanta a las seis y se pone una camisa limpia.",
+     "He gets up at six and puts on a clean shirt."
+    ],
+    [
+     "En la entrada hay otras tres personas, y todas parecen muy tranquilas.",
+     "At the entrance there are three other people, and they all look very calm."
+    ],
+    [
+     "Una señora lo llama y lo lleva a una oficina grande.",
+     "A lady calls him and takes him to a big office."
+    ],
+    [
+     "Primero le pregunta por sus estudios y por sus trabajos anteriores.",
+     "First she asks him about his studies and his previous jobs."
+    ],
+    [
+     "Óscar responde bien, aunque en una pregunta comete un error y tiene que repetir la respuesta.",
+     "Óscar answers well, although he makes a mistake in one question and has to repeat his answer."
+    ],
+    [
+     "Al final, la señora le dice que la compañía busca a una persona para un cargo nuevo en el departamento de ventas.",
+     "At the end, the lady tells him that the company is looking for a person for a new position in the sales department."
+    ],
+    [
+     "Óscar sale contento.",
+     "Óscar leaves happy."
+    ],
+    [
+     "Esa noche recibe una llamada: puede empezar el lunes.",
+     "That night he gets a call: he can start on Monday."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Qué tipo de empresa es?",
+     "en": "What kind of company is it?",
+     "type": "mc",
+     "options": [
+      "Una empresa de teléfonos",
+      "Una gran tienda de ropa y zapatos",
+      "Un banco del centro de la ciudad",
+      "Una escuela de idiomas"
+     ],
+     "answer": 0,
+     "words": [
+      "compañía"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Óscar está solo en la entrada.",
+     "en": "Óscar is alone at the entrance.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "entrada",
+      "persona"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "¿Qué le pregunta primero la señora?",
+     "en": "What does the lady ask him first?",
+     "type": "mc",
+     "options": [
+      "Cuántos años tiene y dónde vive",
+      "Con quién vive y qué hace los domingos",
+      "Qué le gusta comer y beber",
+      "Qué ha estudiado y dónde ha trabajado"
+     ],
+     "answer": 3,
+     "words": [
+      "anterior",
+      "estudio"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Óscar no comete ningún error.",
+     "en": "Óscar does not make any mistake.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "error",
+      "repetir"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "¿Cuándo sabe Óscar que tiene el trabajo?",
+     "en": "When does Óscar find out that he has the job?",
+     "type": "mc",
+     "options": [
+      "Una semana después",
+      "Esa misma noche",
+      "Al día siguiente por la tarde",
+      "Antes de salir de la oficina"
+     ],
+     "answer": 1,
+     "words": [
+      "llamada",
+      "noche"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0065",
+   "lv": "A2",
+   "title": "Querido diario: el concierto",
+   "oop": {},
+   "sentences": [
+    [
+     "Querido diario:",
+     "Dear diary,"
+    ],
+    [
+     "Anoche fui por fin al concierto de la banda que más me gusta.",
+     "Last night I finally went to the concert of the band I like best."
+    ],
+    [
+     "Llegamos una hora antes, pero ya había mucha gente en la calle.",
+     "We arrived an hour early, but there were already lots of people in the street."
+    ],
+    [
+     "Cuando salió la banda, todo el mundo se puso de pie y empezó a cantar.",
+     "When the band came out, everyone stood up and began to sing."
+    ],
+    [
+     "El que canta tiene una voz todavía mejor que en los discos.",
+     "The one who sings has a voice that is even better than on the records."
+    ],
+    [
+     "Tocaron todas mis canciones y también otras nuevas que no conocía.",
+     "They played all my songs and also some new ones I didn't know."
+    ],
+    [
+     "Yo sabía las letras de memoria, y mi amiga Paula me miraba y reía porque cantaba muy fuerte.",
+     "I knew the lyrics by heart, and my friend Paula looked at me and laughed because I sang very loudly."
+    ],
+    [
+     "El concierto duró casi tres horas, pero a mí me pareció corto.",
+     "The concert lasted almost three hours, but to me it seemed short."
+    ],
+    [
+     "Volvimos a casa a pie, con la cabeza llena de música.",
+     "We walked home with our heads full of music."
+    ],
+    [
+     "Hoy estoy muy cansada, pero no cambio esa noche por nada del mundo.",
+     "Today I am very tired, but I wouldn't swap that night for anything in the world."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Cuándo fue al concierto?",
+     "en": "When did she go to the concert?",
+     "type": "mc",
+     "options": [
+      "Esta misma mañana",
+      "La semana pasada por la tarde",
+      "Ayer por la noche",
+      "Hace más de un año"
+     ],
+     "answer": 2,
+     "words": [
+      "anoche"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Cuando salió la banda, la gente se sentó.",
+     "en": "When the band came out, the people sat down.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "banda",
+      "salir"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "¿Qué dice de la voz de quien canta?",
+     "en": "What does she say about the voice of the person who sings?",
+     "type": "mc",
+     "options": [
+      "Que es mejor que en los discos",
+      "Que es peor que cuando empezaron",
+      "Que es demasiado baja para una sala grande",
+      "Que no se oye bien desde atrás"
+     ],
+     "answer": 0,
+     "words": [
+      "voz",
+      "disco"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Ella conocía las letras de las canciones.",
+     "en": "She knew the lyrics of the songs.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "letra",
+      "cantar"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "¿Cuánto tiempo duró el concierto?",
+     "en": "How long did the concert last?",
+     "type": "mc",
+     "options": [
+      "Menos de una hora",
+      "Media hora",
+      "Toda la noche",
+      "Casi tres horas"
+     ],
+     "answer": 3,
+     "words": [
+      "durar",
+      "hora"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0066",
+   "lv": "A2",
+   "title": "Bienvenidos al Club de Lectura",
+   "oop": {},
+   "sentences": [
+    [
+     "Bienvenidos al Club de Lectura de la biblioteca del barrio.",
+     "Welcome to the Reading Club of the neighbourhood library."
+    ],
+    [
+     "Somos un grupo de unos veinte miembros y nos reunimos el primer martes de cada mes.",
+     "We are a group of about twenty members and we meet on the first Tuesday of every month."
+    ],
+    [
+     "No hace falta leer mucho: solo hay que tener ganas de hablar con otras personas.",
+     "You don't need to read a lot: you only need to want to talk with other people."
+    ],
+    [
+     "Cada mes elegimos un libro, y todos los miembros lo leen en casa.",
+     "Each month we choose a book, and all the members read it at home."
+    ],
+    [
+     "La biblioteca presta los libros, pero hay que devolverlos antes de la reunión.",
+     "The library lends the books, but they must be returned before the meeting."
+    ],
+    [
+     "En la reunión, cada persona dice su opinión y cuenta qué le ha parecido la historia.",
+     "At the meeting, each person gives their opinion and says what they thought of the story."
+    ],
+    [
+     "Es normal pensar distinto: eso hace la conversación interesante.",
+     "It is normal to think differently: that makes the conversation interesting."
+    ],
+    [
+     "Para entrar en el club, escriba sus datos en una tarjeta que hay en la entrada.",
+     "To join the club, write your details on a card at the entrance."
+    ],
+    [
+     "No tiene que traer ningún libro a la primera reunión.",
+     "You don't have to bring any book to the first meeting."
+    ],
+    [
+     "¡Le esperamos!",
+     "We look forward to seeing you!"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Cuándo se reúne el club?",
+     "en": "When does the club meet?",
+     "type": "mc",
+     "options": [
+      "Todos los sábados por la tarde",
+      "Una vez al mes, en martes",
+      "Cada dos semanas, los jueves",
+      "El último viernes de cada año"
+     ],
+     "answer": 1,
+     "words": [
+      "miembro",
+      "mes"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Hay que leer muchísimo antes de entrar al club.",
+     "en": "You have to read a huge amount before joining the club.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "falta",
+      "hablar"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "¿Qué hacen los miembros en la reunión?",
+     "en": "What do the members do at the meeting?",
+     "type": "mc",
+     "options": [
+      "Hacen un viaje a otra ciudad",
+      "Leen en silencio durante una hora",
+      "Dicen lo que piensan del libro",
+      "Compran libros nuevos en la entrada"
+     ],
+     "answer": 2,
+     "words": [
+      "opinión",
+      "historia"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Los miembros piensan todos de la misma manera.",
+     "en": "The members all think the same way.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "distinto",
+      "normal"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "¿Qué hay que escribir en la tarjeta?",
+     "en": "What do you have to write on the card?",
+     "type": "mc",
+     "options": [
+      "Los datos de la persona",
+      "El título de su libro favorito",
+      "El precio del libro del mes",
+      "La fecha de la próxima reunión"
+     ],
+     "answer": 0,
+     "words": [
+      "dato",
+      "tarjeta"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0067",
+   "lv": "A2",
+   "title": "Entrevista a una artista",
+   "oop": {},
+   "sentences": [
+    [
+     "Hoy hablamos con Irene Soto, una artista de veintiocho años que vive en nuestra ciudad.",
+     "Today we speak with Irene Soto, a twenty-eight-year-old artist who lives in our city."
+    ],
+    [
+     "—Irene, ¿cuándo empezó su interés por el arte?",
+     "\"Irene, when did your interest in art begin?\""
+    ],
+    [
+     "—De niña. Mi abuelo tenía muchos libros con imágenes de obras famosas, y yo pasaba horas mirándolos.",
+     "\"As a child. My grandfather had many books with pictures of famous works, and I spent hours looking at them.\""
+    ],
+    [
+     "—¿Cómo es su estilo?",
+     "\"What is your style like?\""
+    ],
+    [
+     "—Es muy simple. Uso pocos colores y cosas de todos los días: una mesa, una ventana, una taza.",
+     "\"It's very simple. I use few colours and everyday things: a table, a window, a cup.\""
+    ],
+    [
+     "—¿De dónde saca sus ideas?",
+     "\"Where do you get your ideas from?\""
+    ],
+    [
+     "—De la vida diaria. Muchas veces miro por la ventana y encuentro una escena hermosa.",
+     "\"From daily life. Often I look out of the window and find a beautiful scene.\""
+    ],
+    [
+     "—¿Qué consejo le da a un joven que quiere ser artista?",
+     "\"What advice would you give a young person who wants to be an artist?\""
+    ],
+    [
+     "—Que no tenga miedo de hacer errores y que trabaje todos los días, aunque no tenga ganas.",
+     "\"That they shouldn't be afraid of making mistakes and should work every day, even if they don't feel like it.\""
+    ],
+    [
+     "—Gracias, Irene, y mucha suerte con su próxima obra.",
+     "\"Thank you, Irene, and good luck with your next work.\""
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Por qué le gustó el arte a Irene de niña?",
+     "en": "Why did Irene like art as a child?",
+     "type": "mc",
+     "options": [
+      "Iba a la escuela de arte todos los días",
+      "Su madre era una artista famosa",
+      "Tenía una cámara muy buena",
+      "Miraba libros con obras famosas"
+     ],
+     "answer": 3,
+     "words": [
+      "imagen",
+      "obra"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "El estilo de Irene es muy simple.",
+     "en": "Irene's style is very simple.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "simple"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "¿De dónde saca Irene sus ideas?",
+     "en": "Where does Irene get her ideas from?",
+     "type": "mc",
+     "options": [
+      "De las noticias que lee cada día",
+      "De lo que ve en su vida diaria",
+      "De los programas de la televisión",
+      "De los viajes largos que hace"
+     ],
+     "answer": 1,
+     "words": [
+      "diario",
+      "escena"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Irene piensa que los artistas nunca deben cometer errores.",
+     "en": "Irene thinks artists must never make mistakes.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "error",
+      "miedo"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "¿Qué le dice a un joven que quiere ser artista?",
+     "en": "What does she tell a young person who wants to be an artist?",
+     "type": "mc",
+     "options": [
+      "Que espere a tener veinte años",
+      "Que haga lo mismo que otros",
+      "Que trabaje cada día",
+      "Que trabaje solo los domingos"
+     ],
+     "answer": 2,
+     "words": [
+      "trabajar",
+      "gana"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0068",
+   "lv": "A2",
+   "title": "El auto de Daniel",
+   "oop": {},
+   "sentences": [
+    [
+     "—Daniel, ¿qué te pasa? Tienes mala cara.",
+     "\"Daniel, what's wrong? You look unwell.\""
+    ],
+    [
+     "—Mi auto no funciona desde ayer y tengo que llegar al trabajo.",
+     "\"My car hasn't worked since yesterday and I have to get to work.\""
+    ],
+    [
+     "—¿Es un problema grave?",
+     "\"Is it a serious problem?\""
+    ],
+    [
+     "—No lo sé. Hace un ruido muy raro cuando lo pongo en marcha.",
+     "\"I don't know. It makes a very strange noise when I start it.\""
+    ],
+    [
+     "—Seguro que es algo simple. Mi primo sabe mucho de autos; voy a mandarle un mensaje.",
+     "\"I'm sure it's something simple. My cousin knows a lot about cars; I'll send him a message.\""
+    ],
+    [
+     "—Gracias, pero no quiero causar problemas a nadie.",
+     "\"Thanks, but I don't want to cause problems for anybody.\""
+    ],
+    [
+     "—No es ningún problema. A él le gusta ayudar.",
+     "\"It's no problem. He likes to help.\""
+    ],
+    [
+     "—Entonces te lo agradezco mucho.",
+     "\"Then I'm very grateful.\""
+    ],
+    [
+     "—Mientras tanto, puedo llevarte yo en mi coche.",
+     "\"In the meantime, I can take you in my car.\""
+    ],
+    [
+     "—¿De verdad? Eres genial.",
+     "\"Really? You're great.\""
+    ],
+    [
+     "—Pero tienes que pagar el café cuando lleguemos.",
+     "\"But you have to pay for the coffee when we arrive.\""
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Qué le pasa al auto de Daniel?",
+     "en": "What is wrong with Daniel's car?",
+     "type": "mc",
+     "options": [
+      "Está funcionando mal",
+      "Es muy viejo y ya no vale nada",
+      "Tiene un golpe en la puerta",
+      "Es muy pequeño para tanta gente"
+     ],
+     "answer": 0,
+     "words": [
+      "auto",
+      "funcionar"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "El auto hace un ruido normal.",
+     "en": "The car makes a normal noise.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "ruido",
+      "raro"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "¿Qué va a hacer el amigo para ayudar a Daniel con el auto?",
+     "en": "What is the friend going to do to help Daniel with the car?",
+     "type": "mc",
+     "options": [
+      "Pedir dinero a su padre",
+      "Comprarle un auto nuevo",
+      "Visitar a Daniel en su casa esta tarde",
+      "Escribir a su primo"
+     ],
+     "answer": 3,
+     "words": [
+      "mandar",
+      "mensaje"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "El amigo piensa que el problema puede ser simple.",
+     "en": "The friend thinks the problem could be simple.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "simple"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "¿Qué tiene que hacer Daniel al llegar?",
+     "en": "What does Daniel have to do on arrival?",
+     "type": "mc",
+     "options": [
+      "Comprar el desayuno para todos",
+      "Invitar a su amigo a un café",
+      "Vender el coche",
+      "Llamar a su jefe ahora mismo"
+     ],
+     "answer": 1,
+     "words": [
+      "pagar",
+      "llegar"
+     ],
+     "sentence": 10
+    }
+   ]
+  },
+  {
+   "id": "p0069",
+   "lv": "A2",
+   "title": "Un fin de semana en el campo",
+   "oop": {},
+   "sentences": [
+    [
+     "El sábado pasado fuimos a la casa de mis tíos, en el campo, a una hora de la ciudad.",
+     "Last Saturday we went to my aunt and uncle's house, in the countryside, an hour from the city."
+    ],
+    [
+     "Allí todo es distinto: no hay coches y el silencio es total.",
+     "Everything is different there: there are no cars and the silence is total."
+    ],
+    [
+     "Por la mañana mi tío me llevó a ver sus caballos.",
+     "In the morning my uncle took me to see his horses."
+    ],
+    [
+     "Uno de ellos es blanco y muy hermoso.",
+     "One of them is white and very beautiful."
+    ],
+    [
+     "Después recogimos fruta de los árboles y la llevamos a la cocina.",
+     "Afterwards we picked fruit from the trees and took it to the kitchen."
+    ],
+    [
+     "Mi tía preparó una comida muy rica.",
+     "My aunt made a delicious meal."
+    ],
+    [
+     "Por la tarde caminamos hasta el río y nos sentamos debajo de un árbol.",
+     "In the afternoon we walked to the river and sat down under a tree."
+    ],
+    [
+     "Allí estuvimos mucho rato, hablando y mirando el agua.",
+     "We stayed there a long while, talking and looking at the water."
+    ],
+    [
+     "Por la noche vimos la luna y miles de estrellas.",
+     "At night we saw the moon and thousands of stars."
+    ],
+    [
+     "El domingo volvimos a casa cansados, pero muy felices.",
+     "On Sunday we went back home tired but very happy."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Qué es distinto en la casa de los tíos?",
+     "en": "What is different at the aunt and uncle's house?",
+     "type": "mc",
+     "options": [
+      "Hay mucha gente en las calles",
+      "Hace frío todos los días",
+      "Casi no se ven coches",
+      "Hace mucho calor en verano"
+     ],
+     "answer": 2,
+     "words": [
+      "silencio",
+      "distinto"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "El tío me enseñó unos caballos.",
+     "en": "My uncle showed me some horses.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "caballo"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "¿Qué hicieron con la fruta?",
+     "en": "What did they do with the fruit?",
+     "type": "mc",
+     "options": [
+      "La recogieron de los árboles",
+      "La compraron en una tienda del pueblo",
+      "La dieron a los caballos",
+      "La tiraron al río"
+     ],
+     "answer": 0,
+     "words": [
+      "recoger",
+      "fruta"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Por la tarde se sentaron cerca del río.",
+     "en": "In the afternoon they sat down near the river.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "río",
+      "sentarse"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "¿Qué vieron por la noche?",
+     "en": "What did they see at night?",
+     "type": "mc",
+     "options": [
+      "Una película en la plaza del pueblo",
+      "Unas luces de colores",
+      "Una fiesta con música",
+      "La luna y muchas estrellas"
+     ],
+     "answer": 3,
+     "words": [
+      "luna",
+      "estrella"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0070",
+   "lv": "A2",
+   "title": "Un plan para el cine",
+   "oop": {},
+   "sentences": [
+    [
+     "—¿Vienes hoy al cine?",
+     "\"Are you coming to the cinema today?\""
+    ],
+    [
+     "—Creo que no. Anoche dormí muy poco y tengo mucho sueño.",
+     "\"I don't think so. Last night I slept very little and I'm very sleepy.\""
+    ],
+    [
+     "—Yo tampoco he dormido mucho, pero la película es genial.",
+     "\"I haven't slept much either, but the film is great.\""
+    ],
+    [
+     "—¿Cuál es?",
+     "\"Which one is it?\""
+    ],
+    [
+     "—La nueva de Pedro Aguirre. Dicen que la historia es un poco rara, pero muy buena.",
+     "\"The new one by Pedro Aguirre. They say the story is a bit strange, but very good.\""
+    ],
+    [
+     "—Probablemente es mejor ir mañana. Hoy hace mal tiempo y no tengo ganas de salir.",
+     "\"It's probably better to go tomorrow. The weather is bad today and I don't feel like going out.\""
+    ],
+    [
+     "—Mañana no puedo. Tengo que cuidar a mi hermana pequeña, porque mis padres salen toda la tarde.",
+     "\"I can't tomorrow. I have to look after my little sister, because my parents are out all afternoon.\""
+    ],
+    [
+     "—Entonces, ¿el sábado?",
+     "\"Then, on Saturday?\""
+    ],
+    [
+     "—Perfecto. Compro las entradas ahora mismo.",
+     "\"Perfect. I'll buy the tickets right now.\""
+    ],
+    [
+     "—Y yo llevo algo de comer. Simplemente tienes que llegar a tiempo.",
+     "\"And I'll bring something to eat. You just have to be on time.\""
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Qué le pasa al amigo que no quiere ir?",
+     "en": "What is wrong with the friend who doesn't want to go?",
+     "type": "mc",
+     "options": [
+      "Tiene que trabajar hasta tarde",
+      "Ha dormido muy poco",
+      "No tiene dinero para la entrada",
+      "Está enfermo desde ayer"
+     ],
+     "answer": 1,
+     "words": [
+      "sueño"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Los dos amigos han dormido mucho esta noche.",
+     "en": "Both friends have slept a lot tonight.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "dormir",
+      "tampoco"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "¿Cómo es la historia de la película?",
+     "en": "What is the story of the film like?",
+     "type": "mc",
+     "options": [
+      "Muy triste, pero muy bonita",
+      "Muy corta y sin final",
+      "Un poco rara, pero buena",
+      "Igual que otra película"
+     ],
+     "answer": 2,
+     "words": [
+      "historia"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Mañana el amigo tiene que cuidar a su hermana.",
+     "en": "Tomorrow the friend has to look after his sister.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "cuidar",
+      "hermana"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "¿Cuándo van a ir finalmente al cine?",
+     "en": "When are they finally going to the cinema?",
+     "type": "mc",
+     "options": [
+      "El sábado",
+      "Hoy mismo",
+      "Mañana por la tarde",
+      "El lunes que viene"
+     ],
+     "answer": 0,
+     "words": [
+      "sábado"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0071",
+   "lv": "B1",
+   "title": "La presentación del jueves",
+   "oop": {},
+   "names": [
+    "Lucía",
+    "Carmen"
+   ],
+   "sentences": [
+    [
+     "Hola, Carmen:",
+     "Hi, Carmen,"
+    ],
+    [
+     "Te escribo para confirmar los detalles de la conferencia del jueves.",
+     "I'm writing to confirm the details of Thursday's conference."
+    ],
+    [
+     "Ya he preparado la presentación, pero todavía tengo dudas sobre el texto de las primeras páginas.",
+     "I have already prepared the presentation, but I still have doubts about the text on the first pages."
+    ],
+    [
+     "Creo que es demasiado largo, y a la gente no le gusta leer tanto.",
+     "I think it is too long, and people do not like to read so much."
+    ],
+    [
+     "Mi propuesta es añadir más imágenes y explicar las ideas con pocas palabras.",
+     "My proposal is to add more images and explain the ideas with few words."
+    ],
+    [
+     "Además, el plazo para enviar el material termina mañana por la tarde; si no lo mandamos a tiempo, no podremos usar la sala.",
+     "Besides, the deadline for sending the material ends tomorrow afternoon; if we don't send it in time, we won't be able to use the room."
+    ],
+    [
+     "¿Podrías revisar el documento esta tarde y decirme qué piensas?",
+     "Could you check the document this afternoon and tell me what you think?"
+    ],
+    [
+     "Si prefieres, puedo pasar por tu oficina a las cinco y lo vemos juntas con calma.",
+     "If you prefer, I can drop by your office at five and we can look at it together calmly."
+    ],
+    [
+     "Gracias por tu ayuda: sin ti no lo conseguiría.",
+     "Thanks for your help: without you I wouldn't manage it."
+    ],
+    [
+     "Un saludo, Lucía",
+     "Best wishes, Lucía"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Qué le preocupa a Lucía de la presentación?",
+     "en": "What worries Lucía about the presentation?",
+     "type": "mc",
+     "options": [
+      "Que faltan los datos del primer día",
+      "Que la sala es demasiado pequeña",
+      "Que Carmen no puede venir el jueves",
+      "Que el texto es demasiado largo"
+     ],
+     "answer": 3,
+     "words": [
+      "texto",
+      "duda"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Lucía propone usar más imágenes.",
+     "en": "Lucía proposes using more images.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "propuesta",
+      "añadir",
+      "imagen"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "¿Qué pasa si no mandan el material a tiempo?",
+     "en": "What happens if they don't send the material on time?",
+     "type": "mc",
+     "options": [
+      "Cambiarán la fecha de la conferencia",
+      "No podrán usar la sala",
+      "Tendrán que pagar más dinero",
+      "Perderán todo el texto"
+     ],
+     "answer": 1,
+     "words": [
+      "plazo",
+      "material"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Lucía le pide a Carmen que revise el documento.",
+     "en": "Lucía asks Carmen to check the document.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "revisar"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "¿Qué propone Lucía para ver el documento juntas?",
+     "en": "What does Lucía suggest for looking at the document together?",
+     "type": "mc",
+     "options": [
+      "Hablar por teléfono esta noche",
+      "Esperar hasta el jueves por la mañana",
+      "Pasar por su oficina",
+      "Verlo en la sala de la conferencia"
+     ],
+     "answer": 2,
+     "words": [
+      "oficina"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0072",
+   "lv": "B1",
+   "title": "Una escritora en casa",
+   "oop": {},
+   "sentences": [
+    [
+     "La escritora Marta Linares acaba de publicar su tercera novela y nos recibe en su casa.",
+     "The writer Marta Linares has just published her third novel and welcomes us into her home."
+    ],
+    [
+     "«Escribo todas las mañanas, de ocho a doce», explica. «Por la tarde leo, camino o simplemente no hago nada.»",
+     "\"I write every morning, from eight to twelve,\" she explains. \"In the afternoon I read, walk, or simply do nothing.\""
+    ],
+    [
+     "Según ella, el comienzo de un libro es siempre lo más difícil: puede pasar semanas sin escribir un solo capítulo.",
+     "According to her, the beginning of a book is always the hardest part: she can spend weeks without writing a single chapter."
+    ],
+    [
+     "«Cuando por fin encuentro el personaje correcto, la historia crece sola.»",
+     "\"When I finally find the right character, the story grows by itself.\""
+    ],
+    [
+     "Mucha gente le escribe cartas, y ella contesta a todas.",
+     "Many people write her letters, and she answers every one."
+    ],
+    [
+     "Hace poco recibió el mensaje de un chico de quince años que le decía que su novela le había enseñado a amar la lectura.",
+     "Recently she received a message from a fifteen-year-old boy who said her novel had taught him to love reading."
+    ],
+    [
+     "«Ese tipo de mensaje me da fuerzas para seguir», dice con una sonrisa.",
+     "\"That kind of message gives me strength to carry on,\" she says with a smile."
+    ],
+    [
+     "Marta no sabe todavía cuál será su próximo libro, aunque tiene una idea: una aventura en un barco.",
+     "Marta doesn't know yet what her next book will be, although she has an idea: an adventure on a ship."
+    ],
+    [
+     "«Prefiero no contarla —dice—. Si lo hago, probablemente pierdo las ganas de escribirla.»",
+     "\"I'd rather not tell it,\" she says. \"If I do, I'll probably lose the desire to write it.\""
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Cuándo escribe Marta?",
+     "en": "When does Marta write?",
+     "type": "mc",
+     "options": [
+      "Por las mañanas",
+      "Por las noches",
+      "Solo los fines de semana",
+      "Después de comer"
+     ],
+     "answer": 0,
+     "words": [
+      "escribir",
+      "mañana"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Para Marta, lo más fácil de un libro es el comienzo.",
+     "en": "For Marta the easiest part of a book is the beginning.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "comienzo",
+      "capítulo"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "¿Qué le escribió el chico de quince años?",
+     "en": "What did the fifteen-year-old boy write to her?",
+     "type": "mc",
+     "options": [
+      "Que quería ser escritor como ella cuando sea mayor",
+      "Que su libro era demasiado largo para leerlo",
+      "Que no le gustó el final de la historia",
+      "Que su novela le enseñó a amar la lectura"
+     ],
+     "answer": 3,
+     "words": [
+      "mensaje",
+      "novela",
+      "lectura"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Marta no tiene ninguna idea para su próximo libro.",
+     "en": "Marta has no idea at all for her next book.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "próximo",
+      "idea"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "¿Por qué no cuenta Marta su idea?",
+     "en": "Why doesn't Marta tell her idea?",
+     "type": "mc",
+     "options": [
+      "Todavía no la entiende del todo",
+      "Podría perder las ganas de escribir",
+      "Es un secreto que prometió guardar a su familia",
+      "Se la ha olvidado por completo"
+     ],
+     "answer": 1,
+     "words": [
+      "probablemente"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0073",
+   "lv": "B1",
+   "title": "La ropa de segunda mano",
+   "oop": {},
+   "sentences": [
+    [
+     "Hace dos años dejé de comprar ropa nueva, y la decisión me ha cambiado más de lo que pensaba.",
+     "Two years ago I stopped buying new clothes, and the decision has changed me more than I thought."
+    ],
+    [
+     "Todo empezó cuando vi que tenía en casa muchos pantalones y camisas que casi nunca me ponía.",
+     "It all began when I saw that I had at home many trousers and shirts that I hardly ever wore."
+    ],
+    [
+     "Ahora compro en mercados de segunda mano, donde encuentro trajes y zapatos de muy buena calidad por la mitad del precio.",
+     "Now I shop at second-hand markets, where I find suits and shoes of very good quality at half the price."
+    ],
+    [
+     "Al principio me daba un poco de vergüenza decirlo, pero hoy muchos de mis amigos hacen lo mismo.",
+     "At first I was a little embarrassed to say it, but today many of my friends do the same."
+    ],
+    [
+     "El gasto de cada mes ha bajado mucho, y además tengo un estilo más original que antes.",
+     "My spending each month has fallen a lot, and besides I have a more original style than before."
+    ],
+    [
+     "Algunas personas dicen que la ropa usada no está limpia, pero basta con lavarla bien.",
+     "Some people say used clothes aren't clean, but it's enough to wash them well."
+    ],
+    [
+     "Lo mejor es la sensación de que cada cosa tiene una historia propia.",
+     "The best part is the feeling that each item has a story of its own."
+    ],
+    [
+     "No digo que sea la solución para todos, pero quizá merezca la pena probarlo.",
+     "I'm not saying it's the solution for everyone, but perhaps it's worth trying."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Qué vio en casa antes de dejar de comprar?",
+     "en": "What did the author see at home before stopping buying?",
+     "type": "mc",
+     "options": [
+      "Ropa de otra persona de su familia",
+      "Ropa demasiado pequeña y muy vieja",
+      "Mucha ropa que casi nunca usaba",
+      "Ropa sin lavar desde hacía meses"
+     ],
+     "answer": 2,
+     "words": [
+      "pantalón"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Hoy el autor compra ropa usada en los mercados.",
+     "en": "Today the author buys used clothes at the markets.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "traje",
+      "calidad"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "¿Cómo se sentía al principio?",
+     "en": "How did the author feel at first?",
+     "type": "mc",
+     "options": [
+      "Con un poco de vergüenza",
+      "Muy orgulloso de su idea",
+      "Con mucho miedo a los demás",
+      "Muy cansado de todo"
+     ],
+     "answer": 0,
+     "words": [
+      "vergüenza"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "El gasto del autor ha subido.",
+     "en": "The author's spending has gone up.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "gasto",
+      "estilo"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "¿Qué es lo mejor, según el texto?",
+     "en": "What is the best part, according to the text?",
+     "type": "mc",
+     "options": [
+      "Que todo cuesta la mitad que antes",
+      "Que hay más colores y más formas",
+      "Que no hay que lavarla nunca",
+      "Que cada cosa tiene su historia"
+     ],
+     "answer": 3,
+     "words": [
+      "sensación",
+      "historia"
+     ],
+     "sentence": 6
+    }
+   ]
+  },
+  {
+   "id": "p0074",
+   "lv": "B1",
+   "title": "Una cena en El Rincón",
+   "oop": {},
+   "sentences": [
+    [
+     "El sábado cenamos en El Rincón, un restaurante nuevo que está en la esquina de la plaza.",
+     "On Saturday we had dinner at El Rincón, a new restaurant on the corner of the square."
+    ],
+    [
+     "El ambiente es muy cómodo: luces suaves, mesas grandes y una música de fondo que no molesta.",
+     "The atmosphere is very comfortable: soft lights, big tables and background music that doesn't bother you."
+    ],
+    [
+     "Pedimos dos platos de pescado y uno de carne, y de beber, agua y un vino de la casa.",
+     "We ordered two fish dishes and one meat dish, and to drink, water and the house wine."
+    ],
+    [
+     "La comida llegó muy rápido, pero el pescado estaba un poco frío.",
+     "The food arrived very quickly, but the fish was a little cold."
+    ],
+    [
+     "Se lo dijimos a la persona que nos servía y nos trajo otro enseguida, sin ninguna discusión.",
+     "We told the person serving us and they brought us another one straight away, with no argument."
+    ],
+    [
+     "Lo mejor de la noche fue el chocolate caliente del final, que estaba perfecto.",
+     "The best of the night was the hot chocolate at the end, which was perfect."
+    ],
+    [
+     "La cuenta no fue cara para la calidad de la comida.",
+     "The bill wasn't expensive for the quality of the food."
+    ],
+    [
+     "Lo único malo es el ruido cuando el local está lleno, porque cuesta hablar.",
+     "The only bad thing is the noise when the place is full, because it's hard to talk."
+    ],
+    [
+     "Volveremos pronto, pero esta vez llamaremos antes para pedir mesa.",
+     "We'll come back soon, but this time we'll call ahead to ask for a table."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Dónde está el restaurante?",
+     "en": "Where is the restaurant?",
+     "type": "mc",
+     "options": [
+      "Al lado de un río muy grande",
+      "En la esquina de una plaza",
+      "Dentro de un hotel del centro",
+      "Cerca de la estación de tren"
+     ],
+     "answer": 1,
+     "words": [
+      "esquina",
+      "plaza"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "La música del restaurante molesta mucho.",
+     "en": "The music in the restaurant is very annoying.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "molestar",
+      "fondo"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "¿Qué pasó con el pescado?",
+     "en": "What happened with the fish?",
+     "type": "mc",
+     "options": [
+      "Llegó muy tarde a la mesa",
+      "No era el plato pedido",
+      "No estaba muy caliente",
+      "Tenía demasiada sal"
+     ],
+     "answer": 2,
+     "words": [
+      "pescado",
+      "frío"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "La persona que los servía no quiso cambiar el pescado.",
+     "en": "The person serving them refused to change the fish.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "discusión"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "¿Qué es lo malo del restaurante?",
+     "en": "What is bad about the restaurant?",
+     "type": "mc",
+     "options": [
+      "El ruido cuando hay mucha gente",
+      "Los precios muy altos para lo que ofrece",
+      "El servicio muy lento los sábados",
+      "La falta de mesas libres por la noche"
+     ],
+     "answer": 0,
+     "words": [
+      "ruido",
+      "local"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0075",
+   "lv": "B1",
+   "title": "Día de viento en el aeropuerto",
+   "oop": {},
+   "sentences": [
+    [
+     "El fuerte viento de esta mañana ha causado problemas en el aeropuerto de la ciudad.",
+     "The strong wind this morning has caused problems at the city's airport."
+    ],
+    [
+     "Más de treinta vuelos han salido tarde, y cinco han tenido que cambiar de destino.",
+     "More than thirty flights have left late, and five have had to change destination."
+    ],
+    [
+     "Cientos de personas han pasado la mañana sentadas en el suelo, esperando información.",
+     "Hundreds of people have spent the morning sitting on the floor, waiting for information."
+    ],
+    [
+     "«No hay asientos para todos», decía una mujer con dos niños pequeños.",
+     "\"There aren't seats for everyone,\" said a woman with two small children."
+    ],
+    [
+     "Los responsables del aeropuerto han pedido disculpas y han dado agua y comida.",
+     "Airport officials have apologised and given out water and food."
+    ],
+    [
+     "Además, el mal tiempo ha cortado una carretera importante, y los camiones no han podido llegar a la ciudad hasta la tarde.",
+     "In addition, the bad weather has cut off an important road, and lorries haven't been able to reach the city until the afternoon."
+    ],
+    [
+     "Según los expertos, el viento seguirá hasta mañana, aunque con menos fuerza.",
+     "According to the experts, the wind will go on until tomorrow, though with less force."
+    ],
+    [
+     "Las compañías recomiendan mirar el estado del vuelo antes de salir de casa.",
+     "The airlines recommend checking the status of your flight before leaving home."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Qué ha causado los problemas?",
+     "en": "What has caused the problems?",
+     "type": "mc",
+     "options": [
+      "Un incendio cerca del aeropuerto",
+      "Un accidente en la carretera",
+      "La nieve de esta noche",
+      "Una mañana de mucho viento"
+     ],
+     "answer": 3,
+     "words": [
+      "viento",
+      "causar"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Hay muchos vuelos que han salido tarde esta mañana.",
+     "en": "Many flights have left late this morning.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "vuelo"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "¿Qué pasó en el aeropuerto con los asientos?",
+     "en": "What was the situation with seats at the airport?",
+     "type": "mc",
+     "options": [
+      "Estaban rotos desde hacía semanas",
+      "No había sitio para todos",
+      "Eran nuevos y muy cómodos",
+      "Eran demasiado altos para los niños"
+     ],
+     "answer": 1,
+     "words": [
+      "asiento"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Una carretera importante ha quedado cortada por el mal tiempo.",
+     "en": "An important road has been cut off by the bad weather.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "carretera",
+      "camión"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "¿Qué recomiendan las compañías?",
+     "en": "What do the airlines recommend?",
+     "type": "mc",
+     "options": [
+      "Viajar en camión hasta el aeropuerto más cercano",
+      "Llegar al aeropuerto de noche",
+      "Ver cómo está el vuelo antes de ir",
+      "Cambiar de ciudad de destino"
+     ],
+     "answer": 2,
+     "words": [
+      "compañía",
+      "vuelo"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0076",
+   "lv": "B1",
+   "title": "Mi primera clase",
+   "oop": {},
+   "sentences": [
+    [
+     "Ayer fue mi primer día como profesora de historia en un instituto de mi ciudad.",
+     "Yesterday was my first day as a history teacher at a secondary school in my city."
+    ],
+    [
+     "Los alumnos me miraban en silencio y yo no sabía por dónde empezar.",
+     "The students looked at me in silence and I didn't know where to begin."
+    ],
+    [
+     "Había preparado una lección sobre el siglo diecinueve, pero de repente me pareció aburrida.",
+     "I had prepared a lesson about the nineteenth century, but suddenly it seemed boring to me."
+    ],
+    [
+     "Así que dejé los papeles y les hice una pregunta: ¿qué harían ustedes si vivieran en ese siglo?",
+     "So I put down my papers and asked them a question: what would you do if you lived in that century?"
+    ],
+    [
+     "Al principio nadie habló; luego un chico levantó la mano y dijo que echaría de menos el teléfono, y todos se rieron.",
+     "At first nobody spoke; then a boy raised his hand and said he would miss his phone, and everyone laughed."
+    ],
+    [
+     "Poco a poco la clase se animó, y terminamos hablando de la vida de entonces.",
+     "Little by little the class came alive, and we ended up talking about life back then."
+    ],
+    [
+     "Al salir, una alumna se acercó para decirme que le había gustado la lección.",
+     "On the way out, a student came up to tell me she had liked the lesson."
+    ],
+    [
+     "Volví a casa muy cansada, pero con una buena sensación: creo que he elegido bien mi trabajo.",
+     "I went home very tired, but with a good feeling: I think I have chosen my job well."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Dónde da clase ahora?",
+     "en": "Where does she teach now?",
+     "type": "mc",
+     "options": [
+      "En un instituto",
+      "En una universidad",
+      "En una biblioteca",
+      "En un museo"
+     ],
+     "answer": 0,
+     "words": [
+      "instituto"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Ella cambió su lección de repente.",
+     "en": "She suddenly changed her lesson.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "lección",
+      "aburrido"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "¿Qué pregunta hizo a los alumnos?",
+     "en": "What question did she ask the students?",
+     "type": "mc",
+     "options": [
+      "Qué querían ser cuando fueran mayores",
+      "Cuántos años tenían y de dónde eran",
+      "Qué hicieron el fin de semana pasado",
+      "Qué harían en el siglo diecinueve"
+     ],
+     "answer": 3,
+     "words": [
+      "siglo",
+      "pregunta"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Los alumnos se rieron cuando un chico habló de su teléfono.",
+     "en": "The students laughed when a boy talked about his phone.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "teléfono",
+      "reír"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "¿Cómo se siente al final del día?",
+     "en": "How does she feel at the end of the day?",
+     "type": "mc",
+     "options": [
+      "Preocupada por los alumnos",
+      "Cansada, pero contenta",
+      "Muy nerviosa",
+      "Triste por el primer día"
+     ],
+     "answer": 1,
+     "words": [
+      "sensación",
+      "cansado"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0077",
+   "lv": "B1",
+   "title": "Un paseo por el bosque",
+   "oop": {},
+   "sentences": [
+    [
+     "Los domingos por la mañana me gusta caminar por el bosque que hay cerca de mi pueblo.",
+     "On Sunday mornings I like to walk through the forest near my village."
+    ],
+    [
+     "Salgo temprano, cuando todavía hace fresco y no hay nadie en el camino.",
+     "I set out early, when it is still cool and there is nobody on the path."
+    ],
+    [
+     "Lo primero que noto es el olor de la tierra y de las hojas.",
+     "The first thing I notice is the smell of the earth and the leaves."
+    ],
+    [
+     "Después empiezo a oír los pájaros, que cantan desde los árboles más altos.",
+     "Then I begin to hear the birds, which sing from the tallest trees."
+    ],
+    [
+     "A veces me siento un rato a la sombra de un árbol y simplemente respiro.",
+     "Sometimes I sit for a while in the shade of a tree and simply breathe."
+    ],
+    [
+     "En esos minutos no pienso en el trabajo ni en el dinero; solo escucho la calma del lugar.",
+     "In those minutes I don't think about work or money; I only listen to the calm of the place."
+    ],
+    [
+     "Hace poco encontré un pequeño río escondido entre las piedras.",
+     "Recently I found a small river hidden among the rocks."
+    ],
+    [
+     "El agua estaba tan clara que se veía el fondo.",
+     "The water was so clear that you could see the bottom."
+    ],
+    [
+     "Creo que todos necesitamos un sitio así, donde el tiempo parece pasar más lento.",
+     "I think we all need a place like this, where time seems to pass more slowly."
+    ],
+    [
+     "Si vives en una ciudad, busca un parque o un jardín: la naturaleza ayuda más de lo que imaginamos.",
+     "If you live in a city, look for a park or a garden: nature helps more than we imagine."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Cuándo va al bosque?",
+     "en": "When does she go to the forest?",
+     "type": "mc",
+     "options": [
+      "Todas las tardes después de comer",
+      "Los sábados por la noche",
+      "Un día a la semana, por la mañana",
+      "Solo en verano, con el calor"
+     ],
+     "answer": 2,
+     "words": [
+      "bosque",
+      "domingo"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Lo primero que nota es el canto de los pájaros.",
+     "en": "The first thing she notices is the song of the birds.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "pájaro"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "¿Qué hace a veces a la sombra de un árbol?",
+     "en": "What does she sometimes do in the shade of a tree?",
+     "type": "mc",
+     "options": [
+      "Se sienta y respira",
+      "Lee un libro de historia",
+      "Escribe cartas a sus amigos",
+      "Duerme una hora entera"
+     ],
+     "answer": 0,
+     "words": [
+      "sombra",
+      "respirar"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Se podía ver el fondo del río porque el agua era muy clara.",
+     "en": "You could see the bottom of the river because the water was very clear.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "fondo",
+      "agua"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "¿Qué recomienda a quien vive en una ciudad?",
+     "en": "What does she recommend to someone who lives in a city?",
+     "type": "mc",
+     "options": [
+      "Mudarse al campo cuanto antes",
+      "Comprar un caballo para salir",
+      "Salir de viaje cada fin de mes",
+      "Buscar un parque o un jardín"
+     ],
+     "answer": 3,
+     "words": [
+      "naturaleza",
+      "parque"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0078",
+   "lv": "B1",
+   "title": "Buscando apartamento",
+   "oop": {},
+   "sentences": [
+    [
+     "—Buenas tardes. Llamo por el anuncio del apartamento de la calle Mayor.",
+     "\"Good afternoon. I'm calling about the advert for the flat on Mayor Street.\""
+    ],
+    [
+     "—Sí, todavía está disponible. Tiene dos habitaciones, una cocina pequeña y un salón con mucha luz.",
+     "\"Yes, it's still available. It has two bedrooms, a small kitchen and a living room with plenty of light.\""
+    ],
+    [
+     "—¿Cuánto cuesta al mes?",
+     "\"How much is it per month?\""
+    ],
+    [
+     "—El precio es de seiscientos, sin contar los gastos de agua y luz.",
+     "\"The price is six hundred, not counting the water and electricity bills.\""
+    ],
+    [
+     "—¿Está cerca del transporte público?",
+     "\"Is it near public transport?\""
+    ],
+    [
+     "—Muy cerca. El metro está a cinco minutos a pie y hay una parada de autobús en la esquina.",
+     "\"Very near. The underground is a five-minute walk and there is a bus stop on the corner.\""
+    ],
+    [
+     "—¿Y hay mucho ruido por la noche?",
+     "\"And is there a lot of noise at night?\""
+    ],
+    [
+     "—No, es una calle tranquila. Lo único es que hay que subir por la escalera: el apartamento está en el cuarto piso.",
+     "\"No, it's a quiet street. The only thing is that you have to go up the stairs: the flat is on the fourth floor.\""
+    ],
+    [
+     "—No me importa, necesito hacer más ejercicio. ¿Puedo verlo mañana?",
+     "\"I don't mind, I need to do more exercise. Can I see it tomorrow?\""
+    ],
+    [
+     "—Claro. Si le gusta, tendrá que firmar el contrato y pagar el primer mes.",
+     "\"Of course. If you like it, you will have to sign the contract and pay the first month.\""
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Qué tiene el apartamento?",
+     "en": "What does the flat have?",
+     "type": "mc",
+     "options": [
+      "Tres baños y un jardín con mucho sol",
+      "Dos habitaciones y un salón con luz",
+      "Una sola habitación muy grande",
+      "Una cocina grande y un solo baño"
+     ],
+     "answer": 1,
+     "words": [
+      "habitación"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "En el precio ya entran el agua y la luz.",
+     "en": "The price already includes water and electricity.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "gasto",
+      "precio"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "¿Qué transporte público hay cerca del apartamento?",
+     "en": "What public transport is there near the flat?",
+     "type": "mc",
+     "options": [
+      "Solo un tren muy lento",
+      "Solo taxis por la calle",
+      "Metro y autobús",
+      "Ningún tipo de transporte"
+     ],
+     "answer": 2,
+     "words": [
+      "metro"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "El apartamento está en la planta baja.",
+     "en": "The flat is on the ground floor.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "escalera",
+      "piso"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "¿Qué tendrá que hacer la persona si le gusta el apartamento?",
+     "en": "What will the caller have to do if they like the flat?",
+     "type": "mc",
+     "options": [
+      "Firmar el contrato y pagar un mes",
+      "Llamar a su banco para pedir dinero",
+      "Traer a un amigo como testigo",
+      "Esperar una semana más para decidir"
+     ],
+     "answer": 0,
+     "words": [
+      "contrato",
+      "firmar"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0079",
+   "lv": "B1",
+   "title": "Aprender a pintar",
+   "oop": {},
+   "sentences": [
+    [
+     "Hace tres meses empecé un curso de pintura, y todavía me cuesta creerlo.",
+     "Three months ago I began a painting course, and I still find it hard to believe."
+    ],
+    [
+     "Siempre pensé que no tenía ninguna habilidad, porque en la escuela mis dibujos eran muy malos.",
+     "I always thought I had no skill, because at school my drawings were very bad."
+    ],
+    [
+     "La profesora, sin embargo, dice que lo importante no es el talento, sino la práctica y la actitud.",
+     "The teacher, however, says that what matters isn't talent but practice and attitude."
+    ],
+    [
+     "Cada semana tenemos un tema distinto: una fruta, un rostro, una sombra sobre la pared.",
+     "Each week we have a different subject: a piece of fruit, a face, a shadow on the wall."
+    ],
+    [
+     "Mi cuadro preferido hasta ahora es el de una ventana abierta con un cielo amarillo.",
+     "My favourite painting so far is the one of an open window with a yellow sky."
+    ],
+    [
+     "No es perfecto, pero tiene una luz que me gusta mucho.",
+     "It isn't perfect, but it has a light that I like a lot."
+    ],
+    [
+     "Lo más difícil es ser paciente: quiero resultados rápidos, y la pintura necesita tiempo.",
+     "The hardest thing is being patient: I want quick results, and painting needs time."
+    ],
+    [
+     "El otro día mi hermano vio el cuadro y me preguntó cuánto costaba; me reí, pero me hizo sentir orgullosa.",
+     "The other day my brother saw the painting and asked me how much it cost; I laughed, but it made me feel proud."
+    ],
+    [
+     "Quizá nunca sea una gran artista, pero ahora tengo un lugar donde mi mente descansa.",
+     "Perhaps I will never be a great artist, but now I have a place where my mind rests."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Por qué pensaba que no tenía habilidad?",
+     "en": "Why did she think she had no skill?",
+     "type": "mc",
+     "options": [
+      "Nunca le gustó el color ni el dibujo",
+      "Su familia se lo dijo muchas veces",
+      "No tenía tiempo libre para practicar",
+      "Sus dibujos de la escuela eran malos"
+     ],
+     "answer": 3,
+     "words": [
+      "habilidad",
+      "dibujo"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "La profesora piensa que el talento es lo único importante.",
+     "en": "The teacher thinks talent is the only important thing.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "práctica",
+      "actitud"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "¿Cómo es su cuadro preferido?",
+     "en": "What is her favourite painting like?",
+     "type": "mc",
+     "options": [
+      "Un rostro con una sombra azul y larga",
+      "Una ventana con un cielo amarillo",
+      "Una fruta grande sobre una mesa vieja",
+      "Un campo con caballos blancos al sol"
+     ],
+     "answer": 1,
+     "words": [
+      "cuadro",
+      "cielo"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Ella dice que esperar con calma es lo que más le cuesta.",
+     "en": "She says that waiting calmly is what she finds hardest.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "paciente",
+      "resultado"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "¿Cómo se sintió cuando su hermano miró el cuadro?",
+     "en": "How did she feel when her brother looked at the painting?",
+     "type": "mc",
+     "options": [
+      "Triste",
+      "Cansada",
+      "Orgullosa",
+      "Preocupada"
+     ],
+     "answer": 2,
+     "words": [
+      "orgulloso",
+      "hermano"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0080",
+   "lv": "B1",
+   "title": "Carrera popular de la ciudad",
+   "oop": {},
+   "sentences": [
+    [
+     "El próximo domingo se celebrará la carrera popular de la ciudad, con una ruta de diez kilómetros por el centro y junto al río.",
+     "Next Sunday the city's popular race will take place, with a ten-kilometre route through the centre and next to the river."
+    ],
+    [
+     "La salida será a las nueve de la mañana, frente al museo.",
+     "The start will be at nine in the morning, in front of the museum."
+    ],
+    [
+     "Pueden participar personas de todas las edades, y no hace falta tener experiencia: habrá una ruta más corta de cinco kilómetros para quienes empiezan.",
+     "People of all ages can take part, and no experience is needed: there will be a shorter five-kilometre route for beginners."
+    ],
+    [
+     "Todos recibirán una bolsa con agua y fruta, y un número que deben llevar en la ropa.",
+     "Everyone will receive a bag with water and fruit, and a number that they must wear on their clothes."
+    ],
+    [
+     "Hay que apuntarse en el museo hasta el viernes, y el pago se hace con tarjeta.",
+     "You must sign up at the museum until Friday, and payment is made by card."
+    ],
+    [
+     "Varias calles estarán cerradas desde las siete hasta las dos de la tarde, y los autobuses cambiarán de ruta.",
+     "Several streets will be closed from seven until two in the afternoon, and buses will change their route."
+    ],
+    [
+     "La organización pide ayuda a los vecinos: cualquiera puede animar a los que corren desde la calle.",
+     "The organisers ask the neighbours for help: anyone can cheer on the runners from the street."
+    ],
+    [
+     "El ganador de la prueba larga recibirá un viaje, pero lo más importante, según la organización, es llegar a la meta.",
+     "The winner of the long race will receive a trip, but the most important thing, according to the organisers, is reaching the finish line."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "¿Cuántos kilómetros tiene la ruta larga?",
+     "en": "How many kilometres is the long route?",
+     "type": "mc",
+     "options": [
+      "Diez",
+      "Cinco",
+      "Veinte",
+      "Cuarenta"
+     ],
+     "answer": 0,
+     "words": [
+      "kilómetro",
+      "ruta"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Solo pueden participar las personas con experiencia.",
+     "en": "Only people with experience can take part.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "experiencia",
+      "falta"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "¿Qué recibirá cada persona?",
+     "en": "What will each person receive?",
+     "type": "mc",
+     "options": [
+      "Una camisa nueva de la carrera",
+      "Un billete de tren para dos",
+      "Una entrada para visitar el museo",
+      "Agua y fruta en una bolsa"
+     ],
+     "answer": 3,
+     "words": [
+      "bolsa",
+      "número"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Se puede apuntar uno la misma mañana de la carrera.",
+     "en": "You can sign up on the very morning of the race.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "apuntar",
+      "viernes"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "¿Qué cambiará el domingo en la ciudad?",
+     "en": "What will change in the city on Sunday?",
+     "type": "mc",
+     "options": [
+      "Cerrarán todos los museos y las tiendas del centro",
+      "Habrá calles cerradas y otras rutas de autobús",
+      "No habrá luz en el centro durante la mañana",
+      "Los autobuses serán más baratos que otros días"
+     ],
+     "answer": 1,
+     "words": [
+      "calle",
+      "ruta"
+     ],
+     "sentence": 5
+    }
+   ]
   }
  ]
 }

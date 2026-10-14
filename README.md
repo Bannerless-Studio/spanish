@@ -2,7 +2,7 @@
 
 Static data pack for a language-agnostic vocab trainer (`key: "es"`). 2000
 words spanning A1-B1, each with a short English gloss, plus 3286 example
-sentences with English translations. The Read tab adds 60 short reading
+sentences with English translations. The Read tab adds 80 short reading
 passages with comprehension questions (see "Reading passages" below).
 
 **Live:** https://bannerless-studio.github.io/spanish/
@@ -82,8 +82,8 @@ considered as a cross-check only and is not shipped.
 
 ## Reading passages (Read tab)
 
-60 short reading texts, 20 each at A1, A2 and B1, with comprehension
-questions each. A level's 20 passages unlock once you've learned 70% of that
+80 short reading texts, 20 at A1 and 30 each at A2 and B1, with comprehension
+questions each. A level's passages unlock once you've learned 70% of that
 level's words. Tapping any word in a passage shows its gloss, including
 inflected forms. Comprehension questions feed missed words back into the
 review queue as weak words. The passages and questions are machine-written,
